@@ -1,0 +1,2561 @@
+municipio_codigo;municipio_nombre;distrito_codigo;distrito_nombre;barrio_codigo;barrio_nombre;sexo;nacionalidad;poblacion_empadronada
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Africa;163
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;América Central y del Caribe;83
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;América del Norte;169
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;América del Sur;384
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Apátridas;1
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Asia;251
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Oceanía;9
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Resto de Europa;47
+079;Madrid;079601;Centro;0796011;Palacio;Hombre;Unión Europea;9714
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Africa;56
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;América Central y del Caribe;101
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;América del Norte;221
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;América del Sur;386
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Apátridas;0
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Asia;272
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Oceanía;13
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Resto de Europa;84
+079;Madrid;079601;Centro;0796011;Palacio;Mujer;Unión Europea;10418
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Africa;1010
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;América Central y del Caribe;172
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;América del Norte;279
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;América del Sur;981
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Apátridas;3
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Asia;2544
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Oceanía;13
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Resto de Europa;82
+079;Madrid;079601;Centro;0796012;Embajadores;Hombre;Unión Europea;17870
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Africa;422
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;América Central y del Caribe;206
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;América del Norte;350
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;América del Sur;892
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Apátridas;0
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Asia;974
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Oceanía;17
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Resto de Europa;126
+079;Madrid;079601;Centro;0796012;Embajadores;Mujer;Unión Europea;18705
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Africa;82
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;América Central y del Caribe;35
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;América del Norte;115
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;América del Sur;215
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Apátridas;0
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Asia;138
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Oceanía;6
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Resto de Europa;23
+079;Madrid;079601;Centro;0796013;Cortes;Hombre;Unión Europea;4624
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Africa;41
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;América Central y del Caribe;57
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;América del Norte;171
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;América del Sur;255
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Apátridas;0
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Asia;130
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Oceanía;6
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Resto de Europa;41
+079;Madrid;079601;Centro;0796013;Cortes;Mujer;Unión Europea;4593
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Africa;56
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;América Central y del Caribe;77
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;América del Norte;166
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;América del Sur;363
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Apátridas;0
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Asia;277
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Oceanía;7
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Resto de Europa;50
+079;Madrid;079601;Centro;0796014;Justicia;Hombre;Unión Europea;7157
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Africa;40
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;América Central y del Caribe;75
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;América del Norte;207
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;América del Sur;295
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Apátridas;0
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Asia;320
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Oceanía;10
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Resto de Europa;54
+079;Madrid;079601;Centro;0796014;Justicia;Mujer;Unión Europea;7246
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Africa;146
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;América Central y del Caribe;148
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;América del Norte;253
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;América del Sur;701
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Apátridas;2
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Asia;719
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Oceanía;13
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Resto de Europa;64
+079;Madrid;079601;Centro;0796015;Universidad;Hombre;Unión Europea;12817
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Africa;89
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;América Central y del Caribe;150
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;América del Norte;404
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;América del Sur;673
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Apátridas;1
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Asia;786
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Oceanía;12
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Resto de Europa;114
+079;Madrid;079601;Centro;0796015;Universidad;Mujer;Unión Europea;13646
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Africa;63
+079;Madrid;079601;Centro;0796016;Sol;Hombre;América Central y del Caribe;50
+079;Madrid;079601;Centro;0796016;Sol;Hombre;América del Norte;91
+079;Madrid;079601;Centro;0796016;Sol;Hombre;América del Sur;202
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Apátridas;0
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Asia;135
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Oceanía;5
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Otros países de América;0
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Resto de Europa;32
+079;Madrid;079601;Centro;0796016;Sol;Hombre;Unión Europea;3128
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Africa;31
+079;Madrid;079601;Centro;0796016;Sol;Mujer;América Central y del Caribe;39
+079;Madrid;079601;Centro;0796016;Sol;Mujer;América del Norte;105
+079;Madrid;079601;Centro;0796016;Sol;Mujer;América del Sur;179
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Apátridas;0
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Asia;147
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Oceanía;8
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Otros países de América;0
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Resto de Europa;41
+079;Madrid;079601;Centro;0796016;Sol;Mujer;Unión Europea;3081
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Africa;48
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;América Central y del Caribe;41
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;América del Norte;31
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;América del Sur;198
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Apátridas;0
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Asia;110
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Oceanía;1
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Resto de Europa;10
+079;Madrid;079602;Arganzuela;0796021;Imperial;Hombre;Unión Europea;10026
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Africa;25
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;América Central y del Caribe;73
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;América del Norte;42
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;América del Sur;240
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Asia;125
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Oceanía;2
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Resto de Europa;33
+079;Madrid;079602;Arganzuela;0796021;Imperial;Mujer;Unión Europea;11638
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Africa;122
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;América Central y del Caribe;59
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;América del Norte;55
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;América del Sur;258
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Apátridas;1
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Asia;244
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Oceanía;3
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Resto de Europa;21
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Hombre;Unión Europea;16121
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Africa;58
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;América Central y del Caribe;95
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;América del Norte;61
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;América del Sur;348
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Asia;215
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Oceanía;3
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Resto de Europa;45
+079;Madrid;079602;Arganzuela;0796022;Las Acacias;Mujer;Unión Europea;18941
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Africa;109
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;América Central y del Caribe;164
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;América del Norte;21
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;América del Sur;439
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Apátridas;1
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Asia;197
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Oceanía;0
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Resto de Europa;34
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Hombre;Unión Europea;7877
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Africa;48
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;América Central y del Caribe;203
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;América del Norte;29
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;América del Sur;555
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Asia;215
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Oceanía;0
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Resto de Europa;60
+079;Madrid;079602;Arganzuela;0796023;La Chopera;Mujer;Unión Europea;9803
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Africa;30
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;América Central y del Caribe;31
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;América del Norte;19
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;América del Sur;173
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Apátridas;0
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Asia;120
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Oceanía;1
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Resto de Europa;17
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Hombre;Unión Europea;8864
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Africa;19
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;América Central y del Caribe;44
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;América del Norte;36
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;América del Sur;188
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Asia;145
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Oceanía;0
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Resto de Europa;29
+079;Madrid;079602;Arganzuela;0796024;Legazpi;Mujer;Unión Europea;9226
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Africa;100
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;América Central y del Caribe;96
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;América del Norte;45
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;América del Sur;428
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Apátridas;0
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Asia;301
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Oceanía;3
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Resto de Europa;28
+079;Madrid;079602;Arganzuela;0796025;Delicias;Hombre;Unión Europea;11684
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Africa;44
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;América Central y del Caribe;168
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;América del Norte;61
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;América del Sur;493
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Asia;349
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Oceanía;3
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Resto de Europa;54
+079;Madrid;079602;Arganzuela;0796025;Delicias;Mujer;Unión Europea;13412
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Africa;218
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;América Central y del Caribe;158
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;América del Norte;90
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;América del Sur;461
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Apátridas;1
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Asia;380
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Oceanía;2
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Resto de Europa;54
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Hombre;Unión Europea;10464
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Africa;77
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;América Central y del Caribe;223
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;América del Norte;124
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;América del Sur;507
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Asia;414
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Oceanía;2
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Resto de Europa;93
+079;Madrid;079602;Arganzuela;0796026;Palos de Moguer;Mujer;Unión Europea;12324
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Africa;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;América Central y del Caribe;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;América del Norte;1
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;América del Sur;6
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Apátridas;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Asia;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Oceanía;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Resto de Europa;1
+079;Madrid;079602;Arganzuela;0796027;Atocha;Hombre;Unión Europea;535
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Africa;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;América Central y del Caribe;1
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;América del Norte;1
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;América del Sur;6
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Apátridas;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Asia;2
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Oceanía;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Otros países de América;0
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Resto de Europa;7
+079;Madrid;079602;Arganzuela;0796027;Atocha;Mujer;Unión Europea;547
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Africa;68
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;América Central y del Caribe;106
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;América del Norte;71
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;América del Sur;313
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Apátridas;0
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Asia;177
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Oceanía;2
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Resto de Europa;31
+079;Madrid;079603;Retiro;0796031;Pacífico;Hombre;Unión Europea;14249
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Africa;36
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;América Central y del Caribe;223
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;América del Norte;87
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;América del Sur;512
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Asia;171
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Oceanía;2
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Resto de Europa;69
+079;Madrid;079603;Retiro;0796031;Pacífico;Mujer;Unión Europea;17529
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Africa;58
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;América Central y del Caribe;12
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;América del Norte;36
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;América del Sur;139
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Apátridas;0
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Asia;95
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Oceanía;1
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Resto de Europa;17
+079;Madrid;079603;Retiro;0796032;Adelfas;Hombre;Unión Europea;7965
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Africa;46
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;América Central y del Caribe;53
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;América del Norte;37
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;América del Sur;198
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Asia;103
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Oceanía;0
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Resto de Europa;35
+079;Madrid;079603;Retiro;0796032;Adelfas;Mujer;Unión Europea;9353
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Africa;19
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;América Central y del Caribe;15
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;América del Norte;12
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;América del Sur;84
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Apátridas;0
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Asia;48
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Oceanía;4
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Resto de Europa;9
+079;Madrid;079603;Retiro;0796033;Estrella;Hombre;Unión Europea;10542
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Africa;18
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;América Central y del Caribe;37
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;América del Norte;36
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;América del Sur;161
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Asia;54
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Oceanía;1
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Resto de Europa;28
+079;Madrid;079603;Retiro;0796033;Estrella;Mujer;Unión Europea;12088
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Africa;23
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;América Central y del Caribe;50
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;América del Norte;54
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;América del Sur;203
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Apátridas;1
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Asia;117
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Oceanía;0
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Resto de Europa;24
+079;Madrid;079603;Retiro;0796034;Ibiza;Hombre;Unión Europea;8868
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Africa;27
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;América Central y del Caribe;102
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;América del Norte;95
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;América del Sur;370
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Asia;131
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Oceanía;1
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Resto de Europa;55
+079;Madrid;079603;Retiro;0796034;Ibiza;Mujer;Unión Europea;11228
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Africa;6
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;América Central y del Caribe;8
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;América del Norte;48
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;América del Sur;64
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Apátridas;0
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Asia;10
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Oceanía;2
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Resto de Europa;17
+079;Madrid;079603;Retiro;0796035;Jerónimos;Hombre;Unión Europea;3148
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Africa;7
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;América Central y del Caribe;27
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;América del Norte;62
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;América del Sur;102
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Asia;28
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Oceanía;1
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Resto de Europa;17
+079;Madrid;079603;Retiro;0796035;Jerónimos;Mujer;Unión Europea;3504
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Africa;10
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;América Central y del Caribe;11
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;América del Norte;28
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;América del Sur;45
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Apátridas;0
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Asia;23
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Oceanía;4
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Otros países de América;0
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Resto de Europa;18
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Hombre;Unión Europea;6775
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Africa;7
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;América Central y del Caribe;54
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;América del Norte;37
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;América del Sur;134
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Apátridas;0
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Asia;53
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Oceanía;0
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Otros países de América;0
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Resto de Europa;32
+079;Madrid;079603;Retiro;0796036;Niño Jesús;Mujer;Unión Europea;7941
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Africa;26
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;América Central y del Caribe;30
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;América del Norte;134
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;América del Sur;194
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Apátridas;0
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Asia;56
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Oceanía;1
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Resto de Europa;49
+079;Madrid;079604;Salamanca;0796041;Recoletos;Hombre;Unión Europea;6445
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Africa;39
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;América Central y del Caribe;128
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;América del Norte;188
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;América del Sur;342
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Asia;126
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Oceanía;1
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Resto de Europa;71
+079;Madrid;079604;Salamanca;0796041;Recoletos;Mujer;Unión Europea;7681
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Africa;47
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;América Central y del Caribe;69
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;América del Norte;107
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;América del Sur;402
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Apátridas;0
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Asia;169
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Oceanía;8
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Resto de Europa;38
+079;Madrid;079604;Salamanca;0796042;Goya;Hombre;Unión Europea;11786
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Africa;46
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;América Central y del Caribe;165
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;América del Norte;200
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;América del Sur;608
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Asia;255
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Oceanía;6
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Resto de Europa;117
+079;Madrid;079604;Salamanca;0796042;Goya;Mujer;Unión Europea;15250
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Africa;41
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;América Central y del Caribe;66
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;América del Norte;54
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;América del Sur;294
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Apátridas;1
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Asia;121
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Oceanía;0
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Resto de Europa;20
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Hombre;Unión Europea;8398
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Africa;34
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;América Central y del Caribe;106
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;América del Norte;66
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;América del Sur;439
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Asia;174
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Oceanía;0
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Resto de Europa;67
+079;Madrid;079604;Salamanca;0796043;Fuente del Berro;Mujer;Unión Europea;10713
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Africa;217
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;América Central y del Caribe;118
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;América del Norte;95
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;América del Sur;455
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Apátridas;1
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Asia;208
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Oceanía;1
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Resto de Europa;51
+079;Madrid;079604;Salamanca;0796044;Guindalera;Hombre;Unión Europea;17191
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Africa;70
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;América Central y del Caribe;202
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;América del Norte;133
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;América del Sur;665
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Asia;238
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Oceanía;4
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Resto de Europa;128
+079;Madrid;079604;Salamanca;0796044;Guindalera;Mujer;Unión Europea;20893
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Africa;23
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;América Central y del Caribe;61
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;América del Norte;94
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;América del Sur;318
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Apátridas;0
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Asia;152
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Oceanía;6
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Resto de Europa;54
+079;Madrid;079604;Salamanca;0796045;Lista;Hombre;Unión Europea;8171
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Africa;41
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;América Central y del Caribe;180
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;América del Norte;134
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;América del Sur;553
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Asia;195
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Oceanía;3
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Resto de Europa;83
+079;Madrid;079604;Salamanca;0796045;Lista;Mujer;Unión Europea;10687
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Africa;62
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;América Central y del Caribe;63
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;América del Norte;144
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;América del Sur;300
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Apátridas;0
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Asia;179
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Oceanía;1
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Otros países de América;0
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Resto de Europa;27
+079;Madrid;079604;Salamanca;0796046;Castellana;Hombre;Unión Europea;6646
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Africa;64
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;América Central y del Caribe;136
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;América del Norte;170
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;América del Sur;475
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Apátridas;0
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Asia;207
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Oceanía;1
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Otros países de América;0
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Resto de Europa;59
+079;Madrid;079604;Salamanca;0796046;Castellana;Mujer;Unión Europea;8476
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Africa;28
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;América Central y del Caribe;14
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;América del Norte;60
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;América del Sur;175
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Apátridas;0
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Asia;83
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Oceanía;1
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Resto de Europa;24
+079;Madrid;079605;Chamartín;0796051;El Viso;Hombre;Unión Europea;7287
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Africa;39
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;América Central y del Caribe;113
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;América del Norte;70
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;América del Sur;352
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Apátridas;0
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Asia;187
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Oceanía;0
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Resto de Europa;57
+079;Madrid;079605;Chamartín;0796051;El Viso;Mujer;Unión Europea;8558
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Africa;94
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;América Central y del Caribe;150
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;América del Norte;70
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;América del Sur;395
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Apátridas;1
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Asia;271
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Oceanía;1
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Resto de Europa;38
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Hombre;Unión Europea;15108
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Africa;68
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;América Central y del Caribe;226
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;América del Norte;120
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;América del Sur;583
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Apátridas;0
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Asia;315
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Oceanía;1
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Resto de Europa;96
+079;Madrid;079605;Chamartín;0796052;Prosperidad;Mujer;Unión Europea;18561
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Africa;76
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;América Central y del Caribe;88
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;América del Norte;38
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;América del Sur;238
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Apátridas;0
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Asia;126
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Oceanía;0
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Resto de Europa;22
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Hombre;Unión Europea;7454
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Africa;64
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;América Central y del Caribe;165
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;América del Norte;50
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;América del Sur;369
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Apátridas;0
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Asia;177
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Oceanía;3
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Resto de Europa;39
+079;Madrid;079605;Chamartín;0796053;Ciudad Jardín;Mujer;Unión Europea;9413
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Africa;51
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;América Central y del Caribe;23
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;América del Norte;50
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;América del Sur;192
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Apátridas;0
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Asia;96
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Oceanía;1
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Resto de Europa;27
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Hombre;Unión Europea;13465
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Africa;53
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;América Central y del Caribe;136
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;América del Norte;73
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;América del Sur;368
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Apátridas;0
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Asia;183
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Oceanía;1
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Resto de Europa;71
+079;Madrid;079605;Chamartín;0796054;Hispanoamérica;Mujer;Unión Europea;16446
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Africa;63
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;América Central y del Caribe;36
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;América del Norte;38
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;América del Sur;139
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Apátridas;1
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Asia;76
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Oceanía;5
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Resto de Europa;19
+079;Madrid;079605;Chamartín;0796055;Nueva España;Hombre;Unión Europea;10550
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Africa;75
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;América Central y del Caribe;132
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;América del Norte;63
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;América del Sur;387
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Apátridas;0
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Asia;193
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Oceanía;1
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Resto de Europa;64
+079;Madrid;079605;Chamartín;0796055;Nueva España;Mujer;Unión Europea;12258
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Africa;29
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;América Central y del Caribe;25
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;América del Norte;27
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;América del Sur;157
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Apátridas;1
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Asia;69
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Oceanía;0
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Otros países de América;0
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Resto de Europa;28
+079;Madrid;079605;Chamartín;0796056;Castilla;Hombre;Unión Europea;7341
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Africa;35
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;América Central y del Caribe;63
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;América del Norte;39
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;América del Sur;250
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Apátridas;1
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Asia;104
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Oceanía;1
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Otros países de América;0
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Resto de Europa;36
+079;Madrid;079605;Chamartín;0796056;Castilla;Mujer;Unión Europea;8386
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Africa;182
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;América Central y del Caribe;479
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;América del Norte;54
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;América del Sur;722
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Apátridas;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Asia;854
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Oceanía;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Resto de Europa;28
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Hombre;Unión Europea;10563
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Africa;151
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;América Central y del Caribe;641
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;América del Norte;54
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;América del Sur;958
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Asia;1069
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Oceanía;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Resto de Europa;45
+079;Madrid;079606;Tetuan;0796061;Bellas Vistas;Mujer;Unión Europea;12614
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Africa;120
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;América Central y del Caribe;245
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;América del Norte;74
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;América del Sur;523
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Apátridas;0
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Asia;598
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Oceanía;3
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Resto de Europa;24
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Hombre;Unión Europea;13662
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Africa;101
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;América Central y del Caribe;385
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;América del Norte;94
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;América del Sur;848
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Asia;661
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Oceanía;4
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Resto de Europa;84
+079;Madrid;079606;Tetuan;0796062;Cuatro Caminos;Mujer;Unión Europea;16531
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Africa;85
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;América Central y del Caribe;87
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;América del Norte;49
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;América del Sur;324
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Apátridas;0
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Asia;347
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Oceanía;1
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Resto de Europa;21
+079;Madrid;079606;Tetuan;0796063;Castillejos;Hombre;Unión Europea;8101
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Africa;87
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;América Central y del Caribe;154
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;América del Norte;64
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;América del Sur;491
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Asia;432
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Oceanía;2
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Resto de Europa;67
+079;Madrid;079606;Tetuan;0796063;Castillejos;Mujer;Unión Europea;9672
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Africa;201
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;América Central y del Caribe;113
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;América del Norte;21
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;América del Sur;395
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Apátridas;1
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Asia;220
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Oceanía;1
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Resto de Europa;25
+079;Madrid;079606;Tetuan;0796064;Almenara;Hombre;Unión Europea;9049
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Africa;178
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;América Central y del Caribe;174
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;América del Norte;37
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;América del Sur;577
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Asia;290
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Oceanía;0
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Resto de Europa;43
+079;Madrid;079606;Tetuan;0796064;Almenara;Mujer;Unión Europea;10685
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Africa;212
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;América Central y del Caribe;219
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;América del Norte;20
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;América del Sur;769
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Apátridas;0
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Asia;469
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Oceanía;1
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Resto de Europa;47
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Hombre;Unión Europea;9955
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Africa;177
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;América Central y del Caribe;361
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;América del Norte;34
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;América del Sur;1106
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Asia;594
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Oceanía;1
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Resto de Europa;67
+079;Madrid;079606;Tetuan;0796065;Valdeacederas;Mujer;Unión Europea;11210
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Africa;273
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;América Central y del Caribe;332
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;América del Norte;27
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;América del Sur;723
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Apátridas;0
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Asia;533
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Oceanía;2
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Otros países de América;0
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Resto de Europa;24
+079;Madrid;079606;Tetuan;0796066;Berruguete;Hombre;Unión Europea;8909
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Africa;190
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;América Central y del Caribe;499
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;América del Norte;27
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;América del Sur;1043
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Apátridas;0
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Asia;784
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Oceanía;0
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Otros países de América;0
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Resto de Europa;43
+079;Madrid;079606;Tetuan;0796066;Berruguete;Mujer;Unión Europea;10911
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Africa;47
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;América Central y del Caribe;61
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;América del Norte;89
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;América del Sur;238
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Asia;197
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Oceanía;2
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Resto de Europa;20
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Hombre;Unión Europea;9098
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Africa;61
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;América Central y del Caribe;133
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;América del Norte;142
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;América del Sur;375
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Asia;247
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Oceanía;2
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Resto de Europa;53
+079;Madrid;079607;Chamberí;0796071;Gaztambide;Mujer;Unión Europea;11644
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Africa;61
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;América Central y del Caribe;78
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;América del Norte;86
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;América del Sur;327
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Asia;180
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Oceanía;3
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Resto de Europa;20
+079;Madrid;079607;Chamberí;0796072;Arapiles;Hombre;Unión Europea;9963
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Africa;47
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;América Central y del Caribe;149
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;América del Norte;146
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;América del Sur;388
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Asia;220
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Oceanía;4
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Resto de Europa;49
+079;Madrid;079607;Chamberí;0796072;Arapiles;Mujer;Unión Europea;12467
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Africa;58
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;América Central y del Caribe;78
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;América del Norte;114
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;América del Sur;303
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Asia;187
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Oceanía;3
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Resto de Europa;44
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Hombre;Unión Europea;10122
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Africa;40
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;América Central y del Caribe;143
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;América del Norte;151
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;América del Sur;455
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Asia;248
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Oceanía;1
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Resto de Europa;63
+079;Madrid;079607;Chamberí;0796073;Trafalgar;Mujer;Unión Europea;12518
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Africa;58
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;América Central y del Caribe;65
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;América del Norte;93
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;América del Sur;252
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Asia;146
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Oceanía;1
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Resto de Europa;20
+079;Madrid;079607;Chamberí;0796074;Almagro;Hombre;Unión Europea;8043
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Africa;34
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;América Central y del Caribe;142
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;América del Norte;116
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;América del Sur;400
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Asia;218
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Oceanía;4
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Resto de Europa;62
+079;Madrid;079607;Chamberí;0796074;Almagro;Mujer;Unión Europea;10043
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Africa;45
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;América Central y del Caribe;100
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;América del Norte;86
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;América del Sur;290
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Asia;179
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Oceanía;3
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Resto de Europa;26
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Hombre;Unión Europea;10922
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Africa;59
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;América Central y del Caribe;163
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;América del Norte;128
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;América del Sur;530
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Asia;220
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Oceanía;1
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Resto de Europa;60
+079;Madrid;079607;Chamberí;0796075;Ríos Rosas;Mujer;Unión Europea;13998
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Africa;42
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;América Central y del Caribe;39
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;América del Norte;42
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;América del Sur;110
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Apátridas;0
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Asia;61
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Oceanía;1
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Otros países de América;0
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Resto de Europa;13
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Hombre;Unión Europea;8146
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Africa;38
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;América Central y del Caribe;78
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;América del Norte;62
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;América del Sur;231
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Apátridas;0
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Asia;98
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Oceanía;1
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Otros países de América;0
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Resto de Europa;34
+079;Madrid;079607;Chamberí;0796076;Vallehermoso;Mujer;Unión Europea;10775
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Africa;10
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;América Central y del Caribe;3
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;América del Norte;5
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;América del Sur;9
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Asia;4
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Resto de Europa;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Hombre;Unión Europea;1635
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Africa;8
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;América Central y del Caribe;9
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;América del Norte;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;América del Sur;18
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Asia;5
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Resto de Europa;1
+079;Madrid;079608;Fuencarral-El Pardo;0796081;El Pardo;Mujer;Unión Europea;1689
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Africa;3
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;América Central y del Caribe;2
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;América del Norte;2
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;América del Sur;16
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Asia;8
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Resto de Europa;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Hombre;Unión Europea;1396
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Africa;13
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;América Central y del Caribe;22
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;América del Norte;13
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;América del Sur;45
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Asia;33
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Resto de Europa;5
+079;Madrid;079608;Fuencarral-El Pardo;0796082;Fuentelarreina;Mujer;Unión Europea;1634
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Africa;173
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;América Central y del Caribe;90
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;América del Norte;36
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;América del Sur;365
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Asia;225
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Resto de Europa;43
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Hombre;Unión Europea;19771
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Africa;186
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;América Central y del Caribe;156
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;América del Norte;59
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;América del Sur;521
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Asia;272
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Resto de Europa;75
+079;Madrid;079608;Fuencarral-El Pardo;0796083;Peña Grande;Mujer;Unión Europea;22291
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Africa;216
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;América Central y del Caribe;190
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;América del Norte;34
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;América del Sur;693
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Asia;330
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Resto de Europa;44
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Hombre;Unión Europea;19475
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Africa;198
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;América Central y del Caribe;277
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;América del Norte;35
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;América del Sur;873
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Asia;367
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Resto de Europa;108
+079;Madrid;079608;Fuencarral-El Pardo;0796084;El Pilar;Mujer;Unión Europea;22988
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Africa;35
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;América Central y del Caribe;41
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;América del Norte;27
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;América del Sur;164
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Asia;144
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Resto de Europa;31
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Hombre;Unión Europea;15374
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Africa;43
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;América Central y del Caribe;69
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;América del Norte;42
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;América del Sur;257
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Asia;171
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Resto de Europa;53
+079;Madrid;079608;Fuencarral-El Pardo;0796085;La Paz;Mujer;Unión Europea;17354
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Africa;226
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;América Central y del Caribe;221
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;América del Norte;60
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;América del Sur;740
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Apátridas;1
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Asia;553
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Resto de Europa;91
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Hombre;Unión Europea;26601
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Africa;172
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;América Central y del Caribe;485
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;América del Norte;92
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;América del Sur;1017
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Asia;493
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Resto de Europa;136
+079;Madrid;079608;Fuencarral-El Pardo;0796086;Valverde;Mujer;Unión Europea;29095
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Africa;34
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;América Central y del Caribe;9
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;América del Norte;26
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;América del Sur;68
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Asia;57
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Resto de Europa;19
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Hombre;Unión Europea;14488
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Africa;42
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;América Central y del Caribe;88
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;América del Norte;46
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;América del Sur;222
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Asia;122
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Resto de Europa;44
+079;Madrid;079608;Fuencarral-El Pardo;0796087;Mirasierra;Mujer;Unión Europea;15592
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Africa;39
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;América Central y del Caribe;8
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;América del Norte;14
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;América del Sur;61
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Asia;29
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Oceanía;1
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Resto de Europa;4
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Hombre;Unión Europea;8428
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Africa;18
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;América Central y del Caribe;36
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;América del Norte;31
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;América del Sur;112
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Apátridas;0
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Asia;55
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Oceanía;0
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Otros países de América;0
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Resto de Europa;19
+079;Madrid;079608;Fuencarral-El Pardo;0796088;El Goloso;Mujer;Unión Europea;8529
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Africa;46
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;América Central y del Caribe;21
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;América del Norte;20
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;América del Sur;85
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Asia;80
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Oceanía;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Resto de Europa;16
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Hombre;Unión Europea;5638
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Africa;27
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;América Central y del Caribe;35
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;América del Norte;39
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;América del Sur;126
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Asia;82
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Oceanía;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Resto de Europa;17
+079;Madrid;079609;Moncloa-Aravaca;0796091;Casa de Campo;Mujer;Unión Europea;6603
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Africa;67
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;América Central y del Caribe;61
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;América del Norte;123
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;América del Sur;337
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Asia;236
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Oceanía;3
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Resto de Europa;43
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Hombre;Unión Europea;9931
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Africa;70
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;América Central y del Caribe;152
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;América del Norte;171
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;América del Sur;425
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Asia;315
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Oceanía;4
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Resto de Europa;95
+079;Madrid;079609;Moncloa-Aravaca;0796092;Argüelles;Mujer;Unión Europea;11885
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Africa;70
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;América Central y del Caribe;98
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;América del Norte;34
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;América del Sur;139
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Asia;95
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Oceanía;0
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Resto de Europa;14
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Hombre;Unión Europea;6852
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Africa;70
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;América Central y del Caribe;206
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;América del Norte;51
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;América del Sur;248
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Asia;128
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Resto de Europa;33
+079;Madrid;079609;Moncloa-Aravaca;0796093;Ciudad Universitaria;Mujer;Unión Europea;8010
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Africa;110
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;América Central y del Caribe;146
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;América del Norte;31
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;América del Sur;410
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Apátridas;2
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Asia;297
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Oceanía;2
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Resto de Europa;43
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Hombre;Unión Europea;12315
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Africa;58
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;América Central y del Caribe;195
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;América del Norte;33
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;América del Sur;537
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Asia;409
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Resto de Europa;70
+079;Madrid;079609;Moncloa-Aravaca;0796094;Valdezarza;Mujer;Unión Europea;14598
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Africa;6
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;América Central y del Caribe;11
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;América del Norte;13
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;América del Sur;39
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Asia;18
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Resto de Europa;8
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Hombre;Unión Europea;2856
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Africa;19
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;América Central y del Caribe;71
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;América del Norte;23
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;América del Sur;129
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Asia;40
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Resto de Europa;22
+079;Madrid;079609;Moncloa-Aravaca;0796095;Valdemarín;Mujer;Unión Europea;3153
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Africa;7
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;América Central y del Caribe;3
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;América del Norte;6
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;América del Sur;23
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Asia;11
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Oceanía;0
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Resto de Europa;2
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Hombre;Unión Europea;1225
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Africa;5
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;América Central y del Caribe;14
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;América del Norte;7
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;América del Sur;29
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Asia;13
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Resto de Europa;7
+079;Madrid;079609;Moncloa-Aravaca;0796096;El Plantío;Mujer;Unión Europea;1370
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Africa;32
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;América Central y del Caribe;42
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;América del Norte;70
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;América del Sur;172
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Asia;73
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Oceanía;0
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Resto de Europa;33
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Hombre;Unión Europea;11673
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Africa;52
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;América Central y del Caribe;170
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;América del Norte;92
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;América del Sur;396
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Apátridas;0
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Asia;140
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Oceanía;1
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Otros países de América;0
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Resto de Europa;70
+079;Madrid;079609;Moncloa-Aravaca;0796097;Aravaca;Mujer;Unión Europea;12676
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Africa;196
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;América Central y del Caribe;75
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;América del Norte;20
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;América del Sur;327
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Asia;93
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Oceanía;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Resto de Europa;56
+079;Madrid;079610;Latina;0796101;Los Cármenes;Hombre;Unión Europea;7270
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Africa;120
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;América Central y del Caribe;102
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;América del Norte;19
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;América del Sur;392
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Asia;105
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Oceanía;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Resto de Europa;76
+079;Madrid;079610;Latina;0796101;Los Cármenes;Mujer;Unión Europea;8200
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Africa;321
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;América Central y del Caribe;257
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;América del Norte;64
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;América del Sur;1206
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Asia;608
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Oceanía;1
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Resto de Europa;88
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Hombre;Unión Europea;16333
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Africa;188
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;América Central y del Caribe;411
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;América del Norte;70
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;América del Sur;1549
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Asia;645
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Oceanía;1
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Resto de Europa;143
+079;Madrid;079610;Latina;0796102;Puerta del Angel;Mujer;Unión Europea;19168
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Africa;221
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;América Central y del Caribe;194
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;América del Norte;28
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;América del Sur;887
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Apátridas;1
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Asia;408
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Oceanía;0
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Resto de Europa;123
+079;Madrid;079610;Latina;0796103;Lucero;Hombre;Unión Europea;14505
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Africa;126
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;América Central y del Caribe;309
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;América del Norte;31
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;América del Sur;1057
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Asia;463
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Oceanía;0
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Resto de Europa;203
+079;Madrid;079610;Latina;0796103;Lucero;Mujer;Unión Europea;16730
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Africa;334
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;América Central y del Caribe;349
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;América del Norte;44
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;América del Sur;1458
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Asia;413
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Oceanía;3
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Resto de Europa;294
+079;Madrid;079610;Latina;0796104;Aluche;Hombre;Unión Europea;27179
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Africa;221
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;América Central y del Caribe;599
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;América del Norte;52
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;América del Sur;1684
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Apátridas;1
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Asia;406
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Oceanía;2
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Resto de Europa;422
+079;Madrid;079610;Latina;0796104;Aluche;Mujer;Unión Europea;31861
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Africa;120
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;América Central y del Caribe;270
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;América del Norte;9
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;América del Sur;343
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Asia;139
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Oceanía;0
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Resto de Europa;80
+079;Madrid;079610;Latina;0796105;Campamento;Hombre;Unión Europea;7822
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Africa;87
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;América Central y del Caribe;429
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;América del Norte;8
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;América del Sur;431
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Asia;116
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Oceanía;0
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Resto de Europa;123
+079;Madrid;079610;Latina;0796105;Campamento;Mujer;Unión Europea;8803
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Africa;22
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;América Central y del Caribe;8
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;América del Norte;4
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;América del Sur;44
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Asia;15
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Oceanía;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Resto de Europa;8
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Hombre;Unión Europea;2655
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Africa;15
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;América Central y del Caribe;8
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;América del Norte;3
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;América del Sur;45
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Asia;16
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Oceanía;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Resto de Europa;8
+079;Madrid;079610;Latina;0796106;Cuatro Vientos;Mujer;Unión Europea;2606
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Africa;180
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;América Central y del Caribe;214
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;América del Norte;16
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;América del Sur;691
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Apátridas;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Asia;124
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Oceanía;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Otros países de América;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Resto de Europa;293
+079;Madrid;079610;Latina;0796107;Las Aguilas;Hombre;Unión Europea;22174
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Africa;152
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;América Central y del Caribe;311
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;América del Norte;24
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;América del Sur;884
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Apátridas;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Asia;155
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Oceanía;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Otros países de América;0
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Resto de Europa;376
+079;Madrid;079610;Latina;0796107;Las Aguilas;Mujer;Unión Europea;25367
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Africa;148
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;América Central y del Caribe;191
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;América del Norte;21
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;América del Sur;701
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Apátridas;1
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Asia;199
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Oceanía;0
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Resto de Europa;38
+079;Madrid;079611;Carabanchel;0796111;Comillas;Hombre;Unión Europea;8792
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Africa;113
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;América Central y del Caribe;291
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;América del Norte;21
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;América del Sur;739
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Asia;178
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Oceanía;1
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Resto de Europa;49
+079;Madrid;079611;Carabanchel;0796111;Comillas;Mujer;Unión Europea;10627
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Africa;207
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;América Central y del Caribe;245
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;América del Norte;26
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;América del Sur;1059
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Apátridas;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Asia;581
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Oceanía;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Resto de Europa;83
+079;Madrid;079611;Carabanchel;0796112;Opañel;Hombre;Unión Europea;12393
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Africa;132
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;América Central y del Caribe;472
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;América del Norte;28
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;América del Sur;1221
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Asia;580
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Oceanía;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Resto de Europa;142
+079;Madrid;079611;Carabanchel;0796112;Opañel;Mujer;Unión Europea;14877
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Africa;517
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;América Central y del Caribe;264
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;América del Norte;26
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;América del Sur;1080
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Apátridas;3
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Asia;454
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Oceanía;2
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Resto de Europa;113
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Hombre;Unión Europea;15205
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Africa;314
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;América Central y del Caribe;504
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;América del Norte;34
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;América del Sur;1265
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Asia;390
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Oceanía;2
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Resto de Europa;154
+079;Madrid;079611;Carabanchel;0796113;San Isidro;Mujer;Unión Europea;17669
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Africa;470
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;América Central y del Caribe;318
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;América del Norte;25
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;América del Sur;1694
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Apátridas;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Asia;623
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Oceanía;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Resto de Europa;165
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Hombre;Unión Europea;16881
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Africa;268
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;América Central y del Caribe;584
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;América del Norte;26
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;América del Sur;1775
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Asia;620
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Oceanía;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Resto de Europa;222
+079;Madrid;079611;Carabanchel;0796114;Vista Alegre;Mujer;Unión Europea;20685
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Africa;352
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;América Central y del Caribe;274
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;América del Norte;21
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;América del Sur;1160
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Apátridas;0
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Asia;339
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Oceanía;0
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Resto de Europa;111
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Hombre;Unión Europea;13205
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Africa;215
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;América Central y del Caribe;521
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;América del Norte;28
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;América del Sur;1225
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Asia;314
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Oceanía;1
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Resto de Europa;163
+079;Madrid;079611;Carabanchel;0796115;Puerta Bonita;Mujer;Unión Europea;15083
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Africa;307
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;América Central y del Caribe;126
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;América del Norte;16
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;América del Sur;786
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Apátridas;0
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Asia;191
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Oceanía;0
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Resto de Europa;121
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Hombre;Unión Europea;20348
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Africa;274
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;América Central y del Caribe;246
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;América del Norte;21
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;América del Sur;881
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Asia;179
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Oceanía;1
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Resto de Europa;160
+079;Madrid;079611;Carabanchel;0796116;Buenavista;Mujer;Unión Europea;21593
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Africa;170
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;América Central y del Caribe;155
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;América del Norte;12
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;América del Sur;1029
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Apátridas;0
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Asia;339
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Oceanía;3
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Resto de Europa;82
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Hombre;Unión Europea;11845
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Africa;129
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;América Central y del Caribe;356
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;América del Norte;13
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;América del Sur;1059
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Apátridas;0
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Asia;334
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Oceanía;3
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Otros países de América;0
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Resto de Europa;114
+079;Madrid;079611;Carabanchel;0796117;Abrantes;Mujer;Unión Europea;13755
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Africa;74
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;América Central y del Caribe;53
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;América del Norte;5
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;América del Sur;206
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Apátridas;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Asia;111
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Resto de Europa;33
+079;Madrid;079612;Usera;0796121;Orcasitas;Hombre;Unión Europea;10089
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Africa;53
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;América Central y del Caribe;80
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;América del Norte;9
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;América del Sur;260
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Asia;140
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Oceanía;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Resto de Europa;48
+079;Madrid;079612;Usera;0796121;Orcasitas;Mujer;Unión Europea;11243
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Africa;90
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;América Central y del Caribe;52
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;América del Norte;2
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;América del Sur;206
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Apátridas;0
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Asia;223
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Resto de Europa;46
+079;Madrid;079612;Usera;0796122;Orcasur;Hombre;Unión Europea;5847
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Africa;67
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;América Central y del Caribe;52
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;América del Norte;7
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;América del Sur;187
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Asia;208
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Oceanía;0
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Resto de Europa;72
+079;Madrid;079612;Usera;0796122;Orcasur;Mujer;Unión Europea;6277
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Africa;237
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;América Central y del Caribe;178
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;América del Norte;5
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;América del Sur;486
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Apátridas;0
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Asia;478
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Oceanía;1
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Resto de Europa;48
+079;Madrid;079612;Usera;0796123;San Fermín;Hombre;Unión Europea;9614
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Africa;184
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;América Central y del Caribe;266
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;América del Norte;9
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;América del Sur;532
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Asia;490
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Oceanía;1
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Resto de Europa;71
+079;Madrid;079612;Usera;0796123;San Fermín;Mujer;Unión Europea;10348
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Africa;170
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;América Central y del Caribe;230
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;América del Norte;16
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;América del Sur;804
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Apátridas;1
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Asia;1104
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Resto de Europa;33
+079;Madrid;079612;Usera;0796124;Almendrales;Hombre;Unión Europea;7257
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Africa;116
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;América Central y del Caribe;302
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;América del Norte;16
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;América del Sur;814
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Asia;1050
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Oceanía;0
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Resto de Europa;43
+079;Madrid;079612;Usera;0796124;Almendrales;Mujer;Unión Europea;8654
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Africa;136
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;América Central y del Caribe;203
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;América del Norte;20
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;América del Sur;1155
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Apátridas;1
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Asia;1149
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Resto de Europa;45
+079;Madrid;079612;Usera;0796125;Moscardó;Hombre;Unión Europea;9041
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Africa;72
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;América Central y del Caribe;327
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;América del Norte;16
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;América del Sur;1286
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Asia;1008
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Oceanía;2
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Resto de Europa;73
+079;Madrid;079612;Usera;0796125;Moscardó;Mujer;Unión Europea;10873
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Africa;71
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;América Central y del Caribe;103
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;América del Norte;7
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;América del Sur;557
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Apátridas;0
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Asia;296
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Resto de Europa;40
+079;Madrid;079612;Usera;0796126;Zofío;Hombre;Unión Europea;5186
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Africa;46
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;América Central y del Caribe;187
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;América del Norte;4
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;América del Sur;557
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Asia;288
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Oceanía;0
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Resto de Europa;57
+079;Madrid;079612;Usera;0796126;Zofío;Mujer;Unión Europea;6050
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Africa;116
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;América Central y del Caribe;167
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;América del Norte;7
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;América del Sur;816
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Apátridas;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Asia;1189
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Oceanía;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Otros países de América;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Resto de Europa;27
+079;Madrid;079612;Usera;0796127;Pradolongo;Hombre;Unión Europea;5567
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Africa;82
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;América Central y del Caribe;273
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;América del Norte;3
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;América del Sur;819
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Apátridas;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Asia;1064
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Oceanía;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Otros países de América;0
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Resto de Europa;43
+079;Madrid;079612;Usera;0796127;Pradolongo;Mujer;Unión Europea;6695
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Africa;427
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;América Central y del Caribe;145
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;América del Norte;7
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;América del Sur;634
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Apátridas;1
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Asia;153
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Resto de Europa;121
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Hombre;Unión Europea;14596
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Africa;275
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;América Central y del Caribe;265
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;América del Norte;13
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;América del Sur;676
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Asia;129
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Resto de Europa;138
+079;Madrid;079613;Puente de Vallecas;0796131;Entrevías;Mujer;Unión Europea;15960
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Africa;965
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;América Central y del Caribe;560
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;América del Norte;33
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;América del Sur;1524
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Asia;836
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Resto de Europa;109
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Hombre;Unión Europea;14542
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Africa;722
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;América Central y del Caribe;943
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;América del Norte;42
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;América del Sur;1604
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Asia;742
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Resto de Europa;176
+079;Madrid;079613;Puente de Vallecas;0796132;San Diego;Mujer;Unión Europea;16451
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Africa;290
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;América Central y del Caribe;188
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;América del Norte;22
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;América del Sur;692
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Asia;422
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Oceanía;1
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Resto de Europa;92
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Hombre;Unión Europea;16778
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Africa;212
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;América Central y del Caribe;279
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;América del Norte;23
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;América del Sur;733
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Asia;390
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Resto de Europa;142
+079;Madrid;079613;Puente de Vallecas;0796133;Palomeras Bajas;Mujer;Unión Europea;19082
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Africa;223
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;América Central y del Caribe;158
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;América del Norte;13
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;América del Sur;626
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Asia;341
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Oceanía;1
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Resto de Europa;121
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Hombre;Unión Europea;18647
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Africa;155
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;América Central y del Caribe;258
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;América del Norte;17
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;América del Sur;636
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Asia;286
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Oceanía;1
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Resto de Europa;175
+079;Madrid;079613;Puente de Vallecas;0796134;Palomeras Sureste;Mujer;Unión Europea;20362
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Africa;217
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;América Central y del Caribe;154
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;América del Norte;10
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;América del Sur;476
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Apátridas;1
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Asia;297
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Resto de Europa;73
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Hombre;Unión Europea;11768
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Africa;185
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;América Central y del Caribe;224
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;América del Norte;14
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;América del Sur;501
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Asia;240
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Resto de Europa;113
+079;Madrid;079613;Puente de Vallecas;0796135;Portazgo;Mujer;Unión Europea;13392
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Africa;618
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;América Central y del Caribe;531
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;América del Norte;33
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;América del Sur;1257
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Apátridas;2
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Asia;647
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Oceanía;1
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Resto de Europa;95
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Hombre;Unión Europea;18444
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Africa;447
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;América Central y del Caribe;900
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;América del Norte;38
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;América del Sur;1317
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Apátridas;0
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Asia;561
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Oceanía;0
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Otros países de América;0
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Resto de Europa;161
+079;Madrid;079613;Puente de Vallecas;0796136;Numancia;Mujer;Unión Europea;20848
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Africa;24
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;América Central y del Caribe;22
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;América del Norte;158
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;América del Sur;90
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Asia;31
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Resto de Europa;8
+079;Madrid;079614;Moratalaz;0796141;Pavones;Hombre;Unión Europea;3895
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Africa;28
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;América Central y del Caribe;32
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;América del Norte;99
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;América del Sur;113
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Apátridas;0
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Asia;34
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Oceanía;1
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Resto de Europa;19
+079;Madrid;079614;Moratalaz;0796141;Pavones;Mujer;Unión Europea;4564
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Africa;21
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;América Central y del Caribe;8
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;América del Norte;2
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;América del Sur;27
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Asia;20
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Resto de Europa;8
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Hombre;Unión Europea;2998
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Africa;20
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;América Central y del Caribe;7
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;América del Norte;1
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;América del Sur;30
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Apátridas;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Asia;15
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Oceanía;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Resto de Europa;4
+079;Madrid;079614;Moratalaz;0796142;Horcajo;Mujer;Unión Europea;3274
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Africa;45
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;América Central y del Caribe;53
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;América del Norte;10
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;América del Sur;203
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Asia;85
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Resto de Europa;31
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Hombre;Unión Europea;12279
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Africa;34
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;América Central y del Caribe;64
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;América del Norte;13
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;América del Sur;298
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Apátridas;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Asia;77
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Oceanía;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Resto de Europa;48
+079;Madrid;079614;Moratalaz;0796143;Marroquina;Mujer;Unión Europea;14119
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Africa;36
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;América Central y del Caribe;35
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;América del Norte;10
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;América del Sur;216
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Asia;97
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Resto de Europa;34
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Hombre;Unión Europea;7746
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Africa;40
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;América Central y del Caribe;68
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;América del Norte;10
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;América del Sur;271
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Apátridas;0
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Asia;104
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Oceanía;1
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Resto de Europa;47
+079;Madrid;079614;Moratalaz;0796144;Media Legua;Mujer;Unión Europea;9101
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Africa;55
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;América Central y del Caribe;96
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;América del Norte;3
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;América del Sur;345
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Asia;69
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Resto de Europa;32
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Hombre;Unión Europea;7014
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Africa;46
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;América Central y del Caribe;154
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;América del Norte;10
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;América del Sur;389
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Apátridas;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Asia;71
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Oceanía;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Resto de Europa;64
+079;Madrid;079614;Moratalaz;0796145;Fontarrón;Mujer;Unión Europea;8356
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Africa;26
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;América Central y del Caribe;63
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;América del Norte;9
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;América del Sur;266
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Apátridas;0
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Asia;71
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Oceanía;0
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Resto de Europa;19
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Hombre;Unión Europea;6960
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Africa;35
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;América Central y del Caribe;134
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;América del Norte;9
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;América del Sur;351
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Apátridas;1
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Asia;78
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Oceanía;0
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Otros países de América;0
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Resto de Europa;38
+079;Madrid;079614;Moratalaz;0796146;Vinateros;Mujer;Unión Europea;8709
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Africa;204
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;América Central y del Caribe;397
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;América del Norte;32
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;América del Sur;1249
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Asia;362
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Oceanía;2
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Resto de Europa;77
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Hombre;Unión Europea;18895
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Africa;167
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;América Central y del Caribe;668
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;América del Norte;51
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;América del Sur;1451
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Asia;373
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Resto de Europa;165
+079;Madrid;079615;Ciudad Lineal;0796151;Ventas;Mujer;Unión Europea;23244
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Africa;238
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;América Central y del Caribe;488
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;América del Norte;51
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;América del Sur;1809
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Asia;557
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Resto de Europa;84
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Hombre;Unión Europea;24624
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Africa;187
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;América Central y del Caribe;846
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;América del Norte;50
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;América del Sur;2072
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Apátridas;1
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Asia;509
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Oceanía;2
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Resto de Europa;136
+079;Madrid;079615;Ciudad Lineal;0796152;Pueblo Nuevo;Mujer;Unión Europea;28809
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Africa;127
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;América Central y del Caribe;203
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;América del Norte;26
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;América del Sur;771
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Apátridas;1
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Asia;235
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Oceanía;1
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Resto de Europa;31
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Hombre;Unión Europea;9253
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Africa;86
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;América Central y del Caribe;332
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;América del Norte;30
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;América del Sur;1018
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Apátridas;1
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Asia;238
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Resto de Europa;76
+079;Madrid;079615;Ciudad Lineal;0796153;Quintana;Mujer;Unión Europea;11751
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Africa;116
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;América Central y del Caribe;96
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;América del Norte;21
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;América del Sur;332
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Asia;160
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Resto de Europa;14
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Hombre;Unión Europea;8310
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Africa;112
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;América Central y del Caribe;168
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;América del Norte;30
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;América del Sur;456
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Apátridas;1
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Asia;172
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Oceanía;1
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Resto de Europa;28
+079;Madrid;079615;Ciudad Lineal;0796154;Concepción;Mujer;Unión Europea;10529
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Africa;68
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;América Central y del Caribe;35
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;América del Norte;20
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;América del Sur;138
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Asia;100
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Oceanía;1
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Resto de Europa;15
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Hombre;Unión Europea;7696
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Africa;79
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;América Central y del Caribe;57
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;América del Norte;27
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;América del Sur;229
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Asia;113
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Resto de Europa;40
+079;Madrid;079615;Ciudad Lineal;0796155;San Pascual;Mujer;Unión Europea;9486
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Africa;99
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;América Central y del Caribe;13
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;América del Norte;19
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;América del Sur;84
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Asia;82
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Oceanía;1
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Resto de Europa;7
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Hombre;Unión Europea;5461
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Africa;25
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;América Central y del Caribe;33
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;América del Norte;23
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;América del Sur;112
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Asia;88
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Resto de Europa;31
+079;Madrid;079615;Ciudad Lineal;0796156;San Juan Bautista;Mujer;Unión Europea;6286
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Africa;23
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;América Central y del Caribe;7
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;América del Norte;9
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;América del Sur;54
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Asia;32
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Resto de Europa;5
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Hombre;Unión Europea;2618
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Africa;32
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;América Central y del Caribe;28
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;América del Norte;21
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;América del Sur;79
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Asia;42
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Oceanía;1
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Resto de Europa;19
+079;Madrid;079615;Ciudad Lineal;0796157;Colina;Mujer;Unión Europea;3152
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Africa;7
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;América Central y del Caribe;2
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;América del Norte;6
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;América del Sur;6
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Asia;10
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Resto de Europa;1
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Hombre;Unión Europea;624
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Africa;12
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;América Central y del Caribe;9
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;América del Norte;3
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;América del Sur;18
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Asia;8
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Resto de Europa;4
+079;Madrid;079615;Ciudad Lineal;0796158;Atalaya;Mujer;Unión Europea;850
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Africa;17
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;América Central y del Caribe;16
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;América del Norte;15
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;América del Sur;71
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Asia;50
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Resto de Europa;11
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Hombre;Unión Europea;10098
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Africa;22
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;América Central y del Caribe;61
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;América del Norte;29
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;América del Sur;173
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Apátridas;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Asia;101
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Oceanía;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Otros países de América;0
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Resto de Europa;36
+079;Madrid;079615;Ciudad Lineal;0796159;Costillares;Mujer;Unión Europea;11232
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Africa;6
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;América Central y del Caribe;1
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;América del Norte;2
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;América del Sur;25
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Apátridas;0
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Asia;40
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Oceanía;3
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Resto de Europa;6
+079;Madrid;079616;Hortaleza;0796161;Palomas;Hombre;Unión Europea;3172
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Africa;13
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;América Central y del Caribe;14
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;América del Norte;11
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;América del Sur;55
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Asia;45
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Oceanía;1
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Resto de Europa;16
+079;Madrid;079616;Hortaleza;0796161;Palomas;Mujer;Unión Europea;3270
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Africa;45
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;América Central y del Caribe;12
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;América del Norte;31
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;América del Sur;82
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Apátridas;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Asia;80
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Oceanía;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Resto de Europa;19
+079;Madrid;079616;Hortaleza;0796162;Piovera;Hombre;Unión Europea;6648
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Africa;50
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;América Central y del Caribe;46
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;América del Norte;31
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;América del Sur;163
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Asia;106
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Oceanía;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Resto de Europa;52
+079;Madrid;079616;Hortaleza;0796162;Piovera;Mujer;Unión Europea;7085
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Africa;138
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;América Central y del Caribe;87
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;América del Norte;37
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;América del Sur;341
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Apátridas;1
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Asia;180
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Oceanía;2
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Resto de Europa;38
+079;Madrid;079616;Hortaleza;0796163;Canillas;Hombre;Unión Europea;18009
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Africa;129
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;América Central y del Caribe;139
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;América del Norte;48
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;América del Sur;511
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Asia;216
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Oceanía;2
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Resto de Europa;87
+079;Madrid;079616;Hortaleza;0796163;Canillas;Mujer;Unión Europea;20535
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Africa;146
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;América Central y del Caribe;190
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;América del Norte;40
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;América del Sur;700
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Apátridas;0
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Asia;235
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Oceanía;0
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Resto de Europa;85
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Hombre;Unión Europea;22648
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Africa;93
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;América Central y del Caribe;325
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;América del Norte;40
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;América del Sur;949
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Asia;283
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Oceanía;2
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Resto de Europa;150
+079;Madrid;079616;Hortaleza;0796164;Pinar del Rey;Mujer;Unión Europea;26077
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Africa;30
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;América Central y del Caribe;49
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;América del Norte;13
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;América del Sur;154
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Apátridas;0
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Asia;76
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Oceanía;1
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Resto de Europa;18
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Hombre;Unión Europea;6825
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Africa;23
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;América Central y del Caribe;84
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;América del Norte;7
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;América del Sur;177
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Asia;84
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Oceanía;0
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Resto de Europa;27
+079;Madrid;079616;Hortaleza;0796165;Apostol Santiago;Mujer;Unión Europea;7585
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Africa;112
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;América Central y del Caribe;59
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;América del Norte;82
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;América del Sur;474
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Apátridas;0
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Asia;346
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Oceanía;3
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Resto de Europa;46
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Hombre;Unión Europea;24297
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Africa;87
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;América Central y del Caribe;121
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;América del Norte;122
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;América del Sur;750
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Apátridas;0
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Asia;427
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Oceanía;5
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Otros países de América;0
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Resto de Europa;106
+079;Madrid;079616;Hortaleza;0796166;Valdefuentes;Mujer;Unión Europea;24617
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Africa;834
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;América Central y del Caribe;399
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;América del Norte;10
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;América del Sur;914
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Apátridas;0
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Asia;341
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Oceanía;1
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Otros países de América;0
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Resto de Europa;299
+079;Madrid;079617;Villaverde;0796171;San Andrés;Hombre;Unión Europea;17978
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Africa;657
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;América Central y del Caribe;539
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;América del Norte;16
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;América del Sur;994
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Apátridas;0
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Asia;270
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Oceanía;0
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Otros países de América;0
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Resto de Europa;362
+079;Madrid;079617;Villaverde;0796171;San Andrés;Mujer;Unión Europea;19859
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Africa;861
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;América Central y del Caribe;291
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;América del Norte;1
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;América del Sur;561
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Apátridas;1
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Asia;212
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Oceanía;0
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Otros países de América;0
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Resto de Europa;101
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Hombre;Unión Europea;5387
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Africa;635
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;América Central y del Caribe;340
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;América del Norte;6
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;América del Sur;571
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Apátridas;0
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Asia;138
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Oceanía;0
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Otros países de América;0
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Resto de Europa;113
+079;Madrid;079617;Villaverde;0796172;San Cristobal;Mujer;Unión Europea;5976
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Africa;146
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;América Central y del Caribe;78
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;América del Norte;8
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;América del Sur;285
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Apátridas;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Asia;64
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Oceanía;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Otros países de América;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Resto de Europa;84
+079;Madrid;079617;Villaverde;0796173;Butarque;Hombre;Unión Europea;7776
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Africa;149
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;América Central y del Caribe;82
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;América del Norte;10
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;América del Sur;326
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Apátridas;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Asia;53
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Oceanía;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Otros países de América;0
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Resto de Europa;129
+079;Madrid;079617;Villaverde;0796173;Butarque;Mujer;Unión Europea;8051
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Africa;614
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;América Central y del Caribe;300
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;América del Norte;11
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;América del Sur;816
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Apátridas;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Asia;285
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Oceanía;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Otros países de América;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Resto de Europa;275
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Hombre;Unión Europea;15246
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Africa;441
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;América Central y del Caribe;386
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;América del Norte;16
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;América del Sur;921
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Apátridas;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Asia;231
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Oceanía;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Otros países de América;0
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Resto de Europa;340
+079;Madrid;079617;Villaverde;0796174;Los Rosales;Mujer;Unión Europea;16605
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Africa;253
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;América Central y del Caribe;205
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;América del Norte;9
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;América del Sur;649
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Apátridas;1
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Asia;193
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Oceanía;0
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Otros países de América;0
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Resto de Europa;153
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Hombre;Unión Europea;12624
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Africa;213
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;América Central y del Caribe;317
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;América del Norte;18
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;América del Sur;744
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Apátridas;0
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Asia;182
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Oceanía;0
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Otros países de América;0
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Resto de Europa;225
+079;Madrid;079617;Villaverde;0796175;Los Angeles;Mujer;Unión Europea;14484
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Africa;989
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;América Central y del Caribe;259
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;América del Norte;42
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;América del Sur;1088
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Apátridas;3
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Asia;388
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Oceanía;0
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Otros países de América;0
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Resto de Europa;135
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Hombre;Unión Europea;36167
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Africa;871
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;América Central y del Caribe;405
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;América del Norte;47
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;América del Sur;1225
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Apátridas;0
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Asia;340
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Oceanía;1
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Otros países de América;0
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Resto de Europa;202
+079;Madrid;079618;Villa de Vallecas;0796181;Casco Histórico de Vallecas;Mujer;Unión Europea;38082
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Africa;45
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;América Central y del Caribe;32
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;América del Norte;7
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;América del Sur;139
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Apátridas;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Asia;64
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Oceanía;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Otros países de América;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Resto de Europa;25
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Hombre;Unión Europea;11241
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Africa;27
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;América Central y del Caribe;72
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;América del Norte;15
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;América del Sur;182
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Apátridas;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Asia;52
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Oceanía;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Otros países de América;0
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Resto de Europa;50
+079;Madrid;079618;Villa de Vallecas;0796182;Santa Eugenia;Mujer;Unión Europea;12166
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Africa;438
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;América Central y del Caribe;96
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;América del Norte;22
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;América del Sur;497
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Apátridas;0
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Asia;193
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Oceanía;1
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Otros países de América;0
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Resto de Europa;77
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Hombre;Unión Europea;23758
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Africa;402
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;América Central y del Caribe;131
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;América del Norte;34
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;América del Sur;571
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Apátridas;0
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Asia;202
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Oceanía;0
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Otros países de América;0
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Resto de Europa;105
+079;Madrid;079619;Vicálvaro;0796191;Casco Histórico de Vicálvaro;Mujer;Unión Europea;25060
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Africa;175
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;América Central y del Caribe;69
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;América del Norte;2
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;América del Sur;306
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Apátridas;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Asia;73
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Oceanía;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Otros países de América;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Resto de Europa;61
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Hombre;Unión Europea;8246
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Africa;94
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;América Central y del Caribe;105
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;América del Norte;9
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;América del Sur;353
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Apátridas;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Asia;93
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Oceanía;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Otros países de América;0
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Resto de Europa;65
+079;Madrid;079619;Vicálvaro;0796192;Ambroz;Mujer;Unión Europea;8814
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Africa;265
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;América Central y del Caribe;178
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;América del Norte;31
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;América del Sur;519
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Apátridas;1
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Asia;187
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Oceanía;1
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Resto de Europa;54
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Hombre;Unión Europea;11256
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Africa;98
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;América Central y del Caribe;295
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;América del Norte;23
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;América del Sur;610
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Asia;208
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Oceanía;1
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Resto de Europa;52
+079;Madrid;079620;San Blas-Canillejas;0796201;Simancas;Mujer;Unión Europea;12721
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Africa;34
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;América Central y del Caribe;63
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;América del Norte;2
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;América del Sur;145
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Asia;18
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Resto de Europa;5
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Hombre;Unión Europea;3746
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Africa;31
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;América Central y del Caribe;81
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;América del Norte;2
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;América del Sur;168
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Asia;26
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Resto de Europa;15
+079;Madrid;079620;San Blas-Canillejas;0796202;Hellín;Mujer;Unión Europea;4497
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Africa;55
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;América Central y del Caribe;80
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;América del Norte;3
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;América del Sur;198
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Asia;26
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Resto de Europa;8
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Hombre;Unión Europea;3442
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Africa;38
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;América Central y del Caribe;127
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;América del Norte;3
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;América del Sur;213
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Asia;21
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Resto de Europa;11
+079;Madrid;079620;San Blas-Canillejas;0796203;Amposta;Mujer;Unión Europea;3994
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Africa;81
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;América Central y del Caribe;97
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;América del Norte;11
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;América del Sur;285
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Apátridas;1
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Asia;108
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Resto de Europa;10
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Hombre;Unión Europea;10532
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Africa;76
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;América Central y del Caribe;155
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;América del Norte;8
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;América del Sur;376
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Asia;103
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Resto de Europa;30
+079;Madrid;079620;San Blas-Canillejas;0796204;Arcos;Mujer;Unión Europea;11877
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Africa;25
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;América Central y del Caribe;29
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;América del Norte;21
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;América del Sur;162
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Asia;52
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Oceanía;1
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Resto de Europa;25
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Hombre;Unión Europea;14852
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Africa;24
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;América Central y del Caribe;56
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;América del Norte;8
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;América del Sur;209
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Asia;82
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Oceanía;1
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Resto de Europa;46
+079;Madrid;079620;San Blas-Canillejas;0796205;Rosas;Mujer;Unión Europea;15919
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Africa;57
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;América Central y del Caribe;51
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;América del Norte;23
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;América del Sur;326
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Asia;132
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Resto de Europa;39
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Hombre;Unión Europea;7080
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Africa;47
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;América Central y del Caribe;95
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;América del Norte;21
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;América del Sur;455
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Asia;104
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Resto de Europa;68
+079;Madrid;079620;San Blas-Canillejas;0796206;Rejas;Mujer;Unión Europea;7267
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Africa;155
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;América Central y del Caribe;111
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;América del Norte;15
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;América del Sur;501
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Asia;171
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Resto de Europa;82
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Hombre;Unión Europea;12258
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Africa;130
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;América Central y del Caribe;192
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;América del Norte;15
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;América del Sur;599
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Asia;167
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Oceanía;1
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Resto de Europa;139
+079;Madrid;079620;San Blas-Canillejas;0796207;Canillejas;Mujer;Unión Europea;13874
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Africa;19
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;América Central y del Caribe;31
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;América del Norte;15
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;América del Sur;77
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Asia;56
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Oceanía;3
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Resto de Europa;5
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Hombre;Unión Europea;5152
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Africa;18
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;América Central y del Caribe;44
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;América del Norte;12
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;América del Sur;102
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Apátridas;0
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Asia;42
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Oceanía;0
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Otros países de América;0
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Resto de Europa;11
+079;Madrid;079620;San Blas-Canillejas;0796208;El Salvador;Mujer;Unión Europea;5783
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Africa;20
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;América Central y del Caribe;17
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;América del Norte;15
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;América del Sur;67
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Apátridas;1
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Asia;54
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Oceanía;1
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Otros países de América;0
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Resto de Europa;13
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Hombre;Unión Europea;9137
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Africa;9
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;América Central y del Caribe;43
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;América del Norte;22
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;América del Sur;152
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Apátridas;0
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Asia;70
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Oceanía;1
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Otros países de América;0
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Resto de Europa;22
+079;Madrid;079621;Barajas;0796211;Alameda de Osuna;Mujer;Unión Europea;9751
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Africa;40
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;América Central y del Caribe;23
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;América del Norte;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;América del Sur;49
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Apátridas;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Asia;2
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Oceanía;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Otros países de América;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Resto de Europa;2
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Hombre;Unión Europea;800
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Africa;36
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;América Central y del Caribe;18
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;América del Norte;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;América del Sur;59
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Apátridas;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Asia;3
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Oceanía;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Otros países de América;0
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Resto de Europa;3
+079;Madrid;079621;Barajas;0796212;Aeropuerto;Mujer;Unión Europea;751
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Africa;94
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;América Central y del Caribe;42
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;América del Norte;7
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;América del Sur;130
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Apátridas;0
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Asia;34
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Oceanía;1
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Otros países de América;0
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Resto de Europa;17
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Hombre;Unión Europea;3200
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Africa;96
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;América Central y del Caribe;55
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;América del Norte;13
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;América del Sur;193
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Apátridas;0
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Asia;28
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Oceanía;0
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Otros países de América;0
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Resto de Europa;28
+079;Madrid;079621;Barajas;0796213;Casco Histórico de Barajas;Mujer;Unión Europea;3368
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Africa;51
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;América Central y del Caribe;16
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;América del Norte;4
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;América del Sur;93
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Apátridas;1
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Asia;27
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Oceanía;0
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Otros países de América;0
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Resto de Europa;15
+079;Madrid;079621;Barajas;0796214;Timón;Hombre;Unión Europea;5126
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Africa;50
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;América Central y del Caribe;24
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;América del Norte;6
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;América del Sur;147
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Apátridas;0
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Asia;46
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Oceanía;0
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Otros países de América;0
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Resto de Europa;20
+079;Madrid;079621;Barajas;0796214;Timón;Mujer;Unión Europea;5395
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Africa;9
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;América Central y del Caribe;3
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;América del Norte;7
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;América del Sur;37
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Apátridas;0
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Asia;8
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Oceanía;1
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Otros países de América;0
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Resto de Europa;6
+079;Madrid;079621;Barajas;0796215;Corralejos;Hombre;Unión Europea;3499
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Africa;7
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;América Central y del Caribe;10
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;América del Norte;10
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;América del Sur;75
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Apátridas;0
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Asia;14
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Oceanía;0
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Otros países de América;0
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Resto de Europa;9
+079;Madrid;079621;Barajas;0796215;Corralejos;Mujer;Unión Europea;3670
