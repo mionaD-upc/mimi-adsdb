@@ -1,9 +1,7 @@
-
 import os
 import requests
 import shutil
 from datetime import date
-
 
 DATA = {
     'household2018.xls':'https://datos.madrid.es/egob/catalogo/300438-9-hogares-tama%C3%B1o.xls',
@@ -16,7 +14,8 @@ DATA = {
 
 def temporal_zone():
     """
-    Creates the `landing/temporal` folder and downloads the data if does not exist.
+    Creates the `temporal` folder and downloads the data if does not exist.
+    Returns the folder path
     """
     if not os.path.exists('./temporal'): 
         os.makedirs('./temporal')
@@ -25,12 +24,17 @@ def temporal_zone():
         if not os.path.exists(f'./temporal/{file}'):
             data_request = requests.get(url)
             open(f'./temporal/{file}', 'wb').write(data_request.content)
+            print(f'    - ./temporal/{file} downloaded')
+
+    return os.path.abspath('.')
+
 
 
 def persistent_zone():
     """
-    Creates the `landing/persistent` folder and copies the temporary file to the persistent storage
-    adding the current date in the file name
+    Creates the `persistent` folder and copies the temporary file to the persistent storage
+    adding the current date in the file name.
+    Returns the folder path
     """
     if not os.path.exists('./persistent'): 
         os.makedirs('./persistent')
@@ -39,7 +43,8 @@ def persistent_zone():
     for file in list(DATA.keys()): 
         source = f'./temporal/{file}'
         destination = f'./persistent/{today}_{file}'
-        shutil.copy(source,destination) 
-
-
+        shutil.copy(source,destination)
+        print(f'    - {destination} copied')  
+    
+    return os.path.abspath('.')
 

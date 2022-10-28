@@ -15,11 +15,11 @@ def clear_database(path):
 
 def df_to_DBtable(DB,df,table):
     """
-    Creates a persistent table in DuckDB from the DataFrame content.
+    Creates or replace a persistent table in DuckDB from the DataFrame content.
     """
     con = duckdb.connect(DB)
     con.register(table, df)
-    con.execute(f'CREATE TABLE {table} AS SELECT * FROM {table}')
+    con.execute(f'CREATE OR REPLACE TABLE {table} AS SELECT * FROM {table}')
     con.close()
 
 
@@ -41,3 +41,12 @@ def get_tables(DB):
     tables = con.execute(f'SELECT table_name FROM information_schema.tables').df()['table_name']
     con.close()
     return tables
+
+def select_version(DB,table,version):
+    """
+    Selects a specific version (verion) of the table
+    """
+    con = duckdb.connect(DB)
+    df = con.execute(f"SELECT *  FROM {table} WHERE  Year = {version}").df()
+    con.close()
+    return df

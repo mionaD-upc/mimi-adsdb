@@ -1,6 +1,7 @@
-import os
 import pandas as pd
-import duckdb 
+import os
+import utils
+
 
 household_columns = ['section','delete','population','single_women_aged_16_to_64','single_men_aged_16_to_64','single_women_aged_65_or_over','single_men_aged_65_or_over',
     'adult_women_with_one_or_more_minors','adult_men_with_one_or_more_minors','two_adults_from_16_to_64_and_without_minors',
@@ -10,12 +11,11 @@ household_columns = ['section','delete','population','single_women_aged_16_to_64
     'two_adults_over_35_and_two_adults_from_16_to_34_and_one_minor','two_adults_over_35_and_two_adults_from_16_to_34_and_two_or_more_minors',
     'four_adults_and_0_or_more_minors','five_adults_and_0_or_more_minors','fifteen_or_more_inhabitants','only_minors']
 
-def read_household(file):
+def read_household(path):
     """
     Prepares the Household excel file, 
     Returns the data in DataFrame format
     """
-    path = f'./persistent/{file}'
     df = pd.read_excel(path,sheet_name='Composicion del hogar', header=[5], names=household_columns)
 
     # Formatting the excel format to dataframe
@@ -26,16 +26,14 @@ def read_household(file):
     # Removes the total rows 
     newDF = df[pd.to_numeric(df['section'], errors='coerce').notnull()]
     assert df.shape[0] - newDF.shape[0] == 22
-
     return newDF
 
 
-def read_nationalities(file):
+def read_nationalities(path):
     """
     Reads the Nationalities Excel
     Returns the data in DataFrame format
     """
-    path = f'./persistent/{file}'
     df = pd.read_excel(path, sheet_name='Total', header=[7])
 
     # Formatting excel format to dataframe
@@ -50,26 +48,26 @@ def read_nationalities(file):
     # Formatting the column name
     df.columns = df.columns.str.strip()
     df.columns = df.columns.str.replace(' ', '_')
-    return df
+
+    # Removes the total rows 
+    newDF = df[df['Madrid_section'].apply(lambda x: len(x.strip()) == 9)]
+    return newDF
 
 
-def df_to_DBtable(DB,df,table):
+def formatted_zone(src_path):
     """
-    Creates a persistent table in DuckDB from the DataFrame content.
+    Stores the excel tables from `src_path/persistent` in a relational data base.
     """
-    con = duckdb.connect(DB)
-    con.register(table, df)
-    con.execute(f'CREATE TABLE {table} AS SELECT * FROM {table}')
-    con.close()
+    utils.clear_database(src_path)
+    source = f'{src_path}/persistent/'
 
-
-def formatted_zone():
-    """
-    Stores the excel tables in a relational data base.
-    """
-    for file in os.listdir('./persistent/'):  
+    for file in os.listdir(source): 
+        file_path = f'{src_path}/persistent/{file}'
         table = file.split('_')[1].split('.')[0]
         repo = ''.join(filter(str.isalpha,table))
-        df = read_household(file) if repo == 'household' else read_nationalities(file)
-        df_to_DBtable(f'../{repo}.duckdb',df,table)
+
+        df = read_household(file_path) if repo == 'household' else read_nationalities(file_path)
+        utils.df_to_DBtable(f'{repo}.duckdb',df,table)
+        
+        print(f'    - ./persistent/{file} stored in {repo} DuckDB') 
 

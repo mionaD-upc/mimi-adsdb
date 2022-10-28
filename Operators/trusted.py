@@ -1,51 +1,113 @@
-import duckdb
 import pandas as pd
-
-def df_to_DBtable(df,DB,table): # repeated
-    """
-    Creates a persistent table in DuckDB from the DataFrame content.
-    """
-    con = duckdb.connect(DB)
-    con.register(table, df)
-    con.execute(f'CREATE TABLE {table} AS SELECT * FROM {table}')
-    con.close()
-
-def DBtable_to_df(DB,table):
-    """
-    Converts the DB `table` in a data frame format 
-    """
-    con = duckdb.connect(DB)
-    df = con.execute(f'SELECT * FROM {table}').df()
-    con.close()
-    return df
-
-def get_tables(DB):
-    """
-    Gets all the tables from the `DB`
-    """
-    con = duckdb.connect(DB)
-    tables = con.execute(f'SELECT table_name FROM information_schema.tables').df()['table_name']
-    con.close()
-    return tables
+import utils
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+import os
 
 def pre_join(DB):
     """
     Adds a version (year) column to all `DB` tables in order to do the joining.
     Returns all the `DB` tables in data frame format.
     """
-    tablesDB = get_tables(DB)
+    tablesDB = utils.get_tables(DB)
     dfs = []
     for table in tablesDB:
-        year = ''.join(filter(str.isnumeric,table))
-        df = DBtable_to_df(DB,table)
+        year = table[-4:]
+        df = utils.DBtable_to_df(DB, table)
         df['Year'] = year
         dfs.append(df)
     return dfs
 
 def trusted_zone(DB,table):
     """
-    Joins all the `DB` tables into one and stores it in the `DB`.
+    Joins all the tables found in the database `DB` into one called `table`.
+    Returns the dataframe
     """
     dfs = pre_join(DB)
     df = pd.concat(dfs, axis=0, ignore_index=True)
-    df_to_DBtable(df,DB,table)
+    utils.df_to_DBtable(DB,df,table)
+    return df
+
+## Household - Trust zone
+def gaussianity_plot(df): 
+    """
+    Creates a gaussian plot
+    """  
+    fig, axes = plt.subplots(6, 4, figsize=(15, 15))
+
+    for i, c in enumerate(df.columns[1:-1]):
+        ax = axes.reshape(-1)[i]
+
+        count, bins, ignore = ax.hist(df[c], 15, density=True)
+        sigma = df[c].std()
+        mu = df[c].mean()
+        dbins = np.linspace(bins[0], bins[-1])
+        ax.plot(dbins, 1/(sigma * np.sqrt(2 * np.pi)) * np.exp(- (dbins - mu)**2
+                                                            / (2 * sigma**2)), linewidth=2, color='red')
+        c = c.replace('_', ' ')
+        title = f'{c[:35]}-\n{c[35:]}' if len(c) > 35 else c
+        t = ax.set_title(title)
+    plt.tight_layout()
+    fig.savefig('./figures/household_gaussPlot')
+    plt.clf()
+    
+   
+def corr_plot(df):
+    """
+    Creates a correlation plot
+    """
+    plt.figure(figsize=(20, 20))
+    ax=sns.heatmap(df.iloc[:,1:-1].corr(), annot=True)
+    ax.set_title('Correlation heatmap household data source', fontdict={'fontsize':18}, pad=12)
+    plt.tight_layout()
+    plt.savefig('./figures/hosehold_corrPlot')
+    plt.clf()
+
+def household(DB,df):
+    """
+    Executes all the household data quality done in the trusted zone
+    """
+    if not os.path.exists('./figures/'):
+        os.makedirs('./figures/')
+    gaussianity_plot(df)
+    corr_plot(df)
+    print('        - [Household] Profiling (incoherent values) done')
+    print('        - [Household] Duplicates done')
+    print('        - [Household] Missing values done')
+    print('        - [Household] Outliers done')
+    return df
+    
+
+## Nationalities - trusted zone
+def remove_nat_duplicates(DB):
+    """
+    Treats the duplicated nationalities values
+    """
+    n2018 = utils.select_version(DB, 'nationalities', '2018')
+    n2018 = n2018[n2018.columns.difference(['Belarús','República_Democrática_del_Congo' ])] 
+    n2018 = n2018.rename(columns = {'Bielorrusia':'Belarús', 'República_Democrática_del_Cong':'República_Democrática_del_Congo'})  
+
+    n2019 = utils.select_version(DB, 'nationalities', '2019')
+    n2019 = n2019[n2019.columns.difference(['Bielorrusia','República_Democrática_del_Cong' ])] 
+
+    n2020 = utils.select_version(DB, 'nationalities', '2020')
+    n2020 = n2020[n2020.columns.difference(['Bielorrusia','República_Democrática_del_Cong' ])] 
+
+    df =  pd.concat([n2018, n2019, n2020],ignore_index = True)
+    utils.df_to_DBtable(DB,df, 'nationalitiesClean')
+    return df
+
+
+def nationalities(DB, df):
+    """
+    Executes all the nationalities data quality done in the trusted zone
+    """
+    if not os.path.exists('./figures/'):
+        os.makedirs('./figures/')
+    print('        - [Nationalities] Profiling (incoherent values) done')
+    df = remove_nat_duplicates(DB)
+    print('        - [Nationalities] Duplicates done')
+    print('        - [Nationalities] Missing values done')
+    print('        - [Nationalities] Outliers done')
+    return df
