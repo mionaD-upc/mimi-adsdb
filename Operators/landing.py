@@ -15,7 +15,6 @@ DATA = {
 def temporal_zone():
     """
     Creates the `temporal` folder and downloads the data if does not exist.
-    Returns the folder path
     """
     if not os.path.exists('./temporal'): 
         os.makedirs('./temporal')
@@ -26,15 +25,11 @@ def temporal_zone():
             open(f'./temporal/{file}', 'wb').write(data_request.content)
             print(f'    - ./temporal/{file} downloaded')
 
-    return os.path.abspath('.')
-
-
 
 def persistent_zone():
     """
     Creates the `persistent` folder and copies the temporary file to the persistent storage
     adding the current date in the file name.
-    Returns the folder path
     """
     if not os.path.exists('./persistent'): 
         os.makedirs('./persistent')
@@ -45,6 +40,11 @@ def persistent_zone():
         destination = f'./persistent/{today}_{file}'
         shutil.copy(source,destination)
         print(f'    - {destination} copied')  
-    
-    return os.path.abspath('.')
 
+
+def main():
+    print('\nSATART LANDING')
+    print(' - Downloading data in the temporal zone...')
+    temporal_zone()
+    print(' - Moving the temporal data in the persistent zone...')
+    persistent_zone()

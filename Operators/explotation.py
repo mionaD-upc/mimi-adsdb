@@ -1,6 +1,6 @@
 
 import utils 
-
+import os
 
 def etl_household(dfh):
     """
@@ -39,3 +39,10 @@ def explotation_zone(path):
     df = dfh.merge(dfn, how='inner', on=["Madrid_section","Year"])
     return df
 
+
+def main():
+    print('\nSTART EXPLOTATION')
+
+    path = os.getcwd()
+    explotation_zone(path)
+    print('  - Explotation zone finished')

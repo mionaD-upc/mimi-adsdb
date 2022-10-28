@@ -64,7 +64,7 @@ def corr_plot(df):
     plt.savefig('./figures/hosehold_corrPlot')
     plt.clf()
 
-def household(DB,df):
+def data_quality_household(DB,df):
     """
     Executes all the household data quality done in the trusted zone
     """
@@ -99,7 +99,7 @@ def remove_nat_duplicates(DB):
     return df
 
 
-def nationalities(DB, df):
+def data_quality_nationalities(DB, df):
     """
     Executes all the nationalities data quality done in the trusted zone
     """
@@ -111,3 +111,23 @@ def nationalities(DB, df):
     print('        - [Nationalities] Missing values done')
     print('        - [Nationalities] Outliers done')
     return df
+
+## MAIN
+def main():
+    print('\nSTART TRUSTED')
+    print(' - Generating a single table from the different versions...')
+    path = os.getcwd()
+
+    DBh = f'{path}/household.duckdb'
+    dfh = trusted_zone(DBh, 'household')
+    print('    - All the ./household.duckdb tables are joined into a household table')
+    print('    - Executing the data quality process...')
+    data_quality_household(DBh, dfh)
+
+    DBn = f'{path}/nationalities.duckdb'
+    dfn = trusted_zone(DBn, 'nationalities')
+    print('    - All the ./nationalities.duckdb tables are joined into a nationalities table')
+    print('    - Executing the data quality process...')
+    data_quality_nationalities(DBn,dfn)
+
+

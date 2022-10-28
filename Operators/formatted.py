@@ -54,20 +54,34 @@ def read_nationalities(path):
     return newDF
 
 
-def formatted_zone(src_path):
+def formatted_zone():
     """
-    Stores the excel tables from `src_path/persistent` in a relational data base.
+    Stores the excel tables from `/persistent` in a relational data base.
     """
-    utils.clear_database(src_path)
-    source = f'{src_path}/persistent/'
+    path = os.getcwd()
+    utils.clear_database(path)
 
-    for file in os.listdir(source): 
-        file_path = f'{src_path}/persistent/{file}'
+    dfhs = []
+    dfns = []
+    for file in os.listdir('persistent'):
+        file_path = f'{path}/persistent/{file}'
         table = file.split('_')[1].split('.')[0]
         repo = ''.join(filter(str.isalpha,table))
 
-        df = read_household(file_path) if repo == 'household' else read_nationalities(file_path)
-        utils.df_to_DBtable(f'{repo}.duckdb',df,table)
-        
-        print(f'    - ./persistent/{file} stored in {repo} DuckDB') 
+        if repo == 'household':
+            df = read_household(file_path)
+            dfhs.append(df)
 
+        elif repo == 'nationalities':
+            df = read_nationalities(file_path)
+            dfns.append(df)
+
+        utils.df_to_DBtable(f'{repo}.duckdb',df,table)
+        print(f'    - ./persistent/{file} stored in {repo} DuckDB') 
+    return dfhs, dfns
+
+
+def main():
+    print('\nSTART FORMATTED')
+    print(' - Storing the data in a relational database...')
+    formatted_zone() 
