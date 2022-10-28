@@ -3,7 +3,11 @@
 *.duckdb
 *.duckdb.wal
 
-landing/
+
+Notebooks/1.Landing zone/persistent
+Notebooks/1.Landing zone/temporal
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
