@@ -19,7 +19,7 @@ def df_to_DBtable(DB,df,table):
     """
     con = duckdb.connect(DB)
     con.register(table, df)
-    con.execute(f'CREATE TABLE {table} AS SELECT * FROM {table}')
+    con.execute(f'CREATE OR REPLACE TABLE {table} AS SELECT * FROM {table}')
     con.close()
 
 

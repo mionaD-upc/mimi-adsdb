@@ -4,6 +4,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import warnings
+warnings.filterwarnings('ignore')
 
 def pre_join(DB):
     """
@@ -30,13 +32,13 @@ def trusted_zone(DB,table):
     return df
 
 ## Household - Trust zone
-def gaussianity_plot(df): 
+def gaussianity_plot(df, repo): 
     """
     Creates a gaussian plot
     """  
     fig, axes = plt.subplots(6, 4, figsize=(15, 15))
-
-    for i, c in enumerate(df.columns[1:-1]):
+    col = df.columns[1:-1] if repo == 'household' else df.columns[0:24]
+    for i, c in enumerate(col):
         ax = axes.reshape(-1)[i]
 
         count, bins, ignore = ax.hist(df[c], 15, density=True)
@@ -49,20 +51,79 @@ def gaussianity_plot(df):
         title = f'{c[:35]}-\n{c[35:]}' if len(c) > 35 else c
         t = ax.set_title(title)
     plt.tight_layout()
-    fig.savefig('./figures/household_gaussPlot')
+    fig.savefig(f'./figures/{repo}_gaussPlot')
     plt.clf()
     
    
-def corr_plot(df):
+def corr_plot(df, repo):
     """
     Creates a correlation plot
     """
     plt.figure(figsize=(20, 20))
-    ax=sns.heatmap(df.iloc[:,1:-1].corr(), annot=True)
+    col = df.iloc[:,1:-1].corr() if repo == 'household' else df.iloc[:,0:20].corr()
+    ax=sns.heatmap(col, annot=True)
     ax.set_title('Correlation heatmap household data source', fontdict={'fontsize':18}, pad=12)
     plt.tight_layout()
-    plt.savefig('./figures/hosehold_corrPlot')
+    plt.savefig(f'./figures/{repo}_corrPlot')
     plt.clf()
+
+def missing_plot(df):
+    """
+    Creates a missing values plot
+    """
+    dftmp = df.replace(0,np.nan)
+    count = dftmp.isnull().mean()
+
+    fig, ax = plt.subplots(figsize =(20, 20))
+    ax.barh(df.columns,count)
+
+    for s in ['top', 'bottom', 'left', 'right']: # Remove axes splines
+        ax.spines[s].set_visible(False)
+
+    for i in ax.patches: # Add annotation to bars
+        plt.text(i.get_width()+0.02, i.get_y()+0.4, str(round((i.get_width()), 3)), fontsize = 15, fontweight ='bold')
+
+    ax.set_title('Percentage of missing values', loc ='left', fontsize=18,fontweight='bold' )
+    ax.tick_params(axis = 'both', labelsize=15)
+    plt.tight_layout()
+    fig.savefig('./figures/household_missings')
+    plt.clf()
+
+def outliers_plot(df,repo):
+    """
+    Creates a distribution plots
+    """
+    fig, axes = plt.subplots(6, 4, figsize=(15, 15))
+    col = df.columns[1:-1] if repo == 'household' else df.columns[0:24]
+    for i, c in enumerate(col):
+        ax = axes.reshape(-1)[i]
+        sns.distplot(df[c],ax=ax)
+
+        c = c.replace('_', ' ')
+        title = f'{c[:35]}-\n{c[35:]}' if len(c) > 35 else c
+        t = ax.set_title(title)
+        ax.set(xlabel=None)  # remove the axis label
+    plt.tight_layout()
+    fig.savefig(f'./figures/{repo}_distribution')
+    plt.clf()
+
+def boxplot(df,repo):
+    """
+    Crates a boxplot plots
+    """
+    fig, axes = plt.subplots(6, 4, figsize=(15, 15))
+    col = df.columns[1:-1] if repo == 'household' else df.columns[0:24]
+    for i, c in enumerate(col):
+        ax = axes.reshape(-1)[i]
+        sns.boxplot(df[c],ax=ax)
+
+        c = c.replace('_', ' ')
+        title = f'{c[:35]}-\n{c[35:]}' if len(c) > 35 else c
+        t = ax.set_title(title)
+    plt.tight_layout()
+    fig.savefig(f'./figures/{repo}_boxplot')
+    plt.clf()
+
 
 def data_quality_household(DB,df):
     """
@@ -70,11 +131,14 @@ def data_quality_household(DB,df):
     """
     if not os.path.exists('./figures/'):
         os.makedirs('./figures/')
-    gaussianity_plot(df)
-    corr_plot(df)
+    gaussianity_plot(df, 'household')
+    corr_plot(df, 'household')
     print('        - [Household] Profiling (incoherent values) done')
     print('        - [Household] Duplicates done')
+    missing_plot(df)
     print('        - [Household] Missing values done')
+    outliers_plot(df,'household')
+    boxplot(df, 'household')
     print('        - [Household] Outliers done')
     return df
     
@@ -98,6 +162,14 @@ def remove_nat_duplicates(DB):
     utils.df_to_DBtable(DB,df, 'nationalitiesClean')
     return df
 
+def kde_plot(df,a1):
+    sns.kdeplot(data = df[a1])
+    plt.xlabel(a1, size=12)    
+    plt.ylabel("Frequency", size=12)                
+    plt.grid(True, alpha=0.3, linestyle="--")     
+    plt.tight_layout()
+    plt.savefig(f'./figures/nationalities_KDE_{a1}')
+    plt.clf()
 
 def data_quality_nationalities(DB, df):
     """
@@ -105,10 +177,24 @@ def data_quality_nationalities(DB, df):
     """
     if not os.path.exists('./figures/'):
         os.makedirs('./figures/')
-    print('        - [Nationalities] Profiling (incoherent values) done')
+
     df = remove_nat_duplicates(DB)
     print('        - [Nationalities] Duplicates done')
+
+    gaussianity_plot(df,'nationalities')
+    corr_plot(df,'nationalities')
+    kde_plot(df,'Extranjeros')
+    kde_plot(df,'Españoles')
+    print('        - [Nationalities] Profiling (incoherent values) done')
+
+    nas = df.loc[:, df.isnull().any()].columns.tolist()
+    for col in nas:
+        df[col]=df[col].fillna(0)
+    utils.df_to_DBtable('nationalities.duckdb', df, 'nationalitiesClean')
     print('        - [Nationalities] Missing values done')
+
+    outliers_plot(df, 'nationalities')
+    boxplot(df, 'nationalities')
     print('        - [Nationalities] Outliers done')
     return df
 
