@@ -37,6 +37,7 @@ def explotation_zone(path):
     dfn = etl_nationalities(dfn)
 
     df = dfh.merge(dfn, how='inner', on=["Madrid_section","Year"])
+    utils.df_to_DBtable('integration.duckdb',df, 'integratedTable')
     return df
 
 
