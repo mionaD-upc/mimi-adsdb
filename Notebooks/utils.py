@@ -1,6 +1,7 @@
 
 import duckdb
 import os
+import pandas as pd
 
 
 def clear_database(path):
@@ -50,3 +51,11 @@ def select_version(DB,table,version):
     df = con.execute(f"SELECT *  FROM {table} WHERE  Year = {version}").df()
     con.close()
     return df
+
+def train_data(path):
+    X_train = pd.read_pickle('../Feature generation/data-X_train.pkl.bz2', compression='bz2')
+    y_train = pd.read_pickle('../Feature generation/data-y_train.pkl.bz2', compression='bz2')
+    X_test  = pd.read_pickle('../Feature generation/data-X_test.pkl.bz2', compression='bz2')
+    y_test  = pd.read_pickle('../Feature generation/data-y_test.pkl.bz2', compression='bz2')
+
+    return X_train, X_test, y_train, y_test

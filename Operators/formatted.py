@@ -3,7 +3,7 @@ import os
 import utils
 
 
-household_columns = ['section','delete','population','single_women_aged_16_to_64','single_men_aged_16_to_64','single_women_aged_65_or_over','single_men_aged_65_or_over',
+household_columns = ['section','delete','delete','single_women_aged_16_to_64','single_men_aged_16_to_64','single_women_aged_65_or_over','single_men_aged_65_or_over',
     'adult_women_with_one_or_more_minors','adult_men_with_one_or_more_minors','two_adults_from_16_to_64_and_without_minors',
     'two_adults_one_at_least_65_and_without_minors','two_adults_and_one_minor','two_adults_and_two_minors','two_adults_and_three_or_more_minors',
     'two_adults_over_35_and_one_adult_from_16_to_34','two_adults_over_35_and_one_adult_from_16_to_34_and_one_minor',
@@ -20,12 +20,13 @@ def read_household(path):
 
     # Formatting the excel format to dataframe
     df['section'].fillna(df['delete'],inplace=True)
-    df.drop(labels='delete', axis=1, inplace=True)
+    df.drop(df.filter(like='delete'),axis=1, inplace=True)
     df.dropna(inplace = True)
 
     # Removes the total rows 
     newDF = df[pd.to_numeric(df['section'], errors='coerce').notnull()]
     assert df.shape[0] - newDF.shape[0] == 22
+
     return newDF
 
 
@@ -37,8 +38,7 @@ def read_nationalities(path):
     df = pd.read_excel(path, sheet_name='Total', header=[7])
 
     # Formatting excel format to dataframe
-    df.rename(columns = {'Unnamed: 0':'Madrid_section','Unnamed: 2':'Habitantes','Unnamed: 3':'Españoles','Unnamed: 4':'Extranjeros'}, inplace = True)
-    df.drop('Unnamed: 1', axis=1, inplace=True)
+    df.rename(columns = {'Unnamed: 0':'Madrid_section','Unnamed: 3':'Españoles'}, inplace = True)
     df.drop(df.filter(regex='Unname'),axis=1, inplace=True)
     df.dropna(inplace = True)
 
@@ -51,12 +51,14 @@ def read_nationalities(path):
 
     # Removes the total rows 
     newDF = df[df['Madrid_section'].apply(lambda x: len(x.strip()) == 9)]
+
     return newDF
 
 
 def formatted_zone():
     """
     Stores the excel tables from `/persistent` in a relational data base.
+    Returns the relational data base
     """
     path = os.getcwd()
     utils.clear_database(path)
