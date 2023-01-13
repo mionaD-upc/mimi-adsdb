@@ -32,7 +32,7 @@ def clean_integration(path):
     return df
 
 
-def splitting(df):
+def splitting(df,folder):
     """
     Splits the data source into train and test sets and stores them.
     """
@@ -45,12 +45,13 @@ def splitting(df):
     print(f'    - Test cases: {X_test.shape[0]}')
 
     print(' - Storing the splitted data...')
-    if not os.path.exists('./analysis'): 
-        os.makedirs('./analysis')
-    X_train.to_pickle('./analysis/data-X_train.pkl.bz2',compression='bz2')
-    y_train.to_pickle('./analysis/data-y_train.pkl.bz2',compression='bz2')
-    X_test.to_pickle('./analysis/data-X_test.pkl.bz2',compression='bz2')
-    y_test.to_pickle('./analysis/data-y_test.pkl.bz2',compression='bz2')
+    if not os.path.exists(f'./{folder}'): 
+        os.makedirs(f'./{folder}')
+    X_train.to_pickle(f'./{folder}/data-X_train.pkl.bz2',compression='bz2')
+    y_train.to_pickle(f'./{folder}/data-y_train.pkl.bz2',compression='bz2')
+    X_test.to_pickle(f'./{folder}/data-X_test.pkl.bz2',compression='bz2')
+    y_test.to_pickle(f'./{folder}/data-y_test.pkl.bz2',compression='bz2')
+    return X_train, X_test, y_train, y_test
 
 
 def main():
@@ -60,4 +61,5 @@ def main():
     print(' - Classifying nationalities into Extranjeros or Españoles..')
     df = clean_integration(path)
     print(' - Splitting data into train and test..')
-    splitting(df)
+    splitting(df,'model1')
+    return df

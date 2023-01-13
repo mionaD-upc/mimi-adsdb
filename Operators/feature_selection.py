@@ -1,33 +1,29 @@
-import os, sys
+import os
 import utils 
 import numpy as np
-import pandas as pd
+
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import power_transform
 from sklearn.pipeline import Pipeline
 import sklearn_relief as sr
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestRegressor
-import warnings
-warnings.filterwarnings('ignore')
+
 
 def feature_selection(path):
-    data = utils.DBtable_to_df('../integration.duckdb', 'integratedTable')
-    dataN = data.drop(columns=['Year','Madrid_section'])
-    dataN = dataN.astype(float)
-
-    l = len(dataN.columns)
-    cols  =  dataN.columns.to_list()
-
-    dataN.reset_index(drop=True, inplace=True)
+    df = utils.DBtable_to_df('../integration.duckdb', 'integratedTable')
+   
+    l = len(df.columns)
+    cols  =  df.columns.to_list()
+    df.reset_index(drop=True, inplace=True)
 
     scaler = MinMaxScaler()
 
-    dataN = power_transform(dataN, method='yeo-johnson')
-    dataN = scaler.fit_transform(dataN)
+    df = power_transform(df, method='yeo-johnson')
+    df = scaler.fit_transform(df)
 
-    X = dataN[:,0:l-1]
-    y = dataN[:,l-1]
+    X = df[:,0:l-1]
+    y = df[:,l-1]
 
     np.random.seed(144)
     X_train, X_test, y_train, y_test = train_test_split(X,y, test_size = 0.3, random_state = 0)
