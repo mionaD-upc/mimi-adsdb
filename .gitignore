@@ -2,11 +2,12 @@
 
 *.duckdb
 *.duckdb.wal
+*.bz2
 
 persistent/
 temporal/
 figures/
-
+analysis/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

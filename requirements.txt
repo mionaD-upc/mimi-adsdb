@@ -6,3 +6,5 @@ matplotlib
 numpy
 ipynb
 seaborn
+scikit-learn
+sklearn_relief

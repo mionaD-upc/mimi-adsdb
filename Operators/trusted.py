@@ -162,8 +162,8 @@ def remove_nat_duplicates(DB):
     utils.df_to_DBtable(DB,df, 'nationalitiesClean')
     return df
 
-def kde_plot(df,a1):
-    sns.kdeplot(data = df[a1])
+def kde_plot(sata,a1):
+    sns.kdeplot(data = sata)
     plt.xlabel(a1, size=12)    
     plt.ylabel("Frequency", size=12)                
     plt.grid(True, alpha=0.3, linestyle="--")     
@@ -183,8 +183,9 @@ def data_quality_nationalities(DB, df):
 
     gaussianity_plot(df,'nationalities')
     corr_plot(df,'nationalities')
-    kde_plot(df,'Extranjeros')
-    kde_plot(df,'Españoles')
+    extranjeros = (df.drop(['Madrid_section', 'Year', 'Españoles'], axis = 1)).sum(axis = 1)
+    kde_plot(extranjeros,'Extranjeros')
+    kde_plot(df['Españoles'],'Españoles')
     print('        - [Nationalities] Profiling (incoherent values) done')
 
     nas = df.loc[:, df.isnull().any()].columns.tolist()
@@ -198,7 +199,6 @@ def data_quality_nationalities(DB, df):
     print('        - [Nationalities] Outliers done')
     return df
 
-## MAIN
 def main():
     print('\nSTART TRUSTED')
     print(' - Generating a single table from the different versions...')

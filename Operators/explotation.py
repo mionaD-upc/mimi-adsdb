@@ -9,7 +9,7 @@ def etl_household(dfh):
     """
     dfh['section'] = dfh.section.astype('int32').astype('str')
     dfh['section'] = dfh.section.apply(lambda s: '0796' + s if len(s) == 5 else '07960' + s)
-    dfh = dfh.rename(columns = {'section':'Madrid_section', 'habitantes':'suma de categorías de hogares'})  
+    dfh = dfh.rename(columns = {'section':'Madrid_section'})  
     utils.df_to_DBtable(f'integration.duckdb',dfh, 'householdClean_Madrid')
     return dfh
 
@@ -20,7 +20,6 @@ def etl_nationalities(dfn):
     data source in the ETL-ish way.
     """
     dfn = dfn[dfn['Madrid_section'].str.contains('0796', regex=False)] 
-    dfn = dfn.rename(columns = {'Habitantes':'suma de categorías de nacionalidad'}) 
     dfn['Madrid_section'] = dfn['Madrid_section'].str.strip() 
     utils.df_to_DBtable('integration.duckdb',dfn, 'nationalitiesClean_Madrid')
     return dfn
@@ -43,7 +42,7 @@ def explotation_zone(path):
 
 def main():
     print('\nSTART EXPLOTATION')
-
     path = os.getcwd()
+    print(' - Generating a single table from both sources...')
     explotation_zone(path)
     print('  - Explotation zone finished')

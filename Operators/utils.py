@@ -2,7 +2,8 @@
 import duckdb
 import os
 import pandas as pd
-
+from sklearn import metrics
+import numpy as np
 
 def clear_database(path):
     """
@@ -53,10 +54,26 @@ def select_version(DB,table,version):
     con.close()
     return df
 
-def train_data(path):
+
+def load_data(path):
+    """
+    Loads the train and test data
+    """
     X_train = pd.read_pickle(f'/{path}/data-X_train.pkl.bz2', compression='bz2')
     y_train = pd.read_pickle(f'{path}/data-y_train.pkl.bz2', compression='bz2')
     X_test  = pd.read_pickle(f'{path}/data-X_test.pkl.bz2', compression='bz2')
     y_test  = pd.read_pickle(f'{path}/data-y_test.pkl.bz2', compression='bz2')
-
     return X_train, X_test, y_train, y_test
+
+
+def regression_results(y_true, y_pred):
+    """
+    Reports regressor metrics to evaluate the model
+    """
+    explained_variance = metrics.explained_variance_score(y_true, y_pred)
+    mae = metrics.mean_absolute_error(y_true, y_pred) 
+    mse = metrics.mean_squared_error(y_true, y_pred) 
+    print('        - Explained variance: ', round(explained_variance,4))    
+    print('        - MAE: ', round(mae,4))
+    print('        - MSE: ', round(mse,4))
+    print('        - RMSE: ', round(np.sqrt(mse),4))
