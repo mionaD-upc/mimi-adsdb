@@ -55,14 +55,14 @@ def select_version(DB,table,version):
     return df
 
 
-def load_data():
+def load_data(path):
     """
     Loads the train and test data
     """
-    X_train = pd.read_pickle('../1.Feature generation/data-X_train.pkl.bz2', compression='bz2')
-    y_train = pd.read_pickle('../1.Feature generation/data-y_train.pkl.bz2', compression='bz2')
-    X_test  = pd.read_pickle('../1.Feature generation/data-X_test.pkl.bz2', compression='bz2')
-    y_test  = pd.read_pickle('../1.Feature generation/data-y_test.pkl.bz2', compression='bz2')
+    X_train = pd.read_pickle(f'{path}/data-X_train.pkl.bz2', compression='bz2')
+    y_train = pd.read_pickle(f'{path}/data-y_train.pkl.bz2', compression='bz2')
+    X_test  = pd.read_pickle(f'{path}/data-X_test.pkl.bz2', compression='bz2')
+    y_test  = pd.read_pickle(f'{path}/data-y_test.pkl.bz2', compression='bz2')
     return X_train, X_test, y_train, y_test
 
 
